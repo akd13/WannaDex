@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">5248-MY</DataItem>
+		<DataItem name="Date (Last Close)">20180904</DataItem>
+		<DataItem name="# Ratings">12</DataItem>
+		<DataItem name="% Buy + Overweight Rating">92</DataItem>
+		<DataItem name="% Hold Rating">8</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+		<DataItem name="Target Price">2.62382</DataItem>
+		<DataItem name="Price (High Last Close)">2.24</DataItem>
+		<DataItem name="Price (Low Last Close)">2.14</DataItem>
+		<DataItem name="Price (Last Close)">2.2</DataItem>
+		<DataItem name="ADTV (Millions)">3.6346</DataItem>
+		<DataItem name="52 Week Price High">2.47</DataItem>
+		<DataItem name="52 Week Price Low">1.85</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+</Grid>

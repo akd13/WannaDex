@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date (Last Close)">20180904</DataItem>
+		<DataItem name="# Ratings">48</DataItem>
+		<DataItem name="% Buy + Overweight Rating">96</DataItem>
+		<DataItem name="% Hold Rating">4</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+		<DataItem name="Target Price">232.84386</DataItem>
+		<DataItem name="Price (High Last Close)">173.95</DataItem>
+		<DataItem name="Price (Low Last Close)">169</DataItem>
+		<DataItem name="Price (Last Close)">170.44</DataItem>
+		<DataItem name="ADTV (Millions)">NA</DataItem>
+		<DataItem name="52 Week Price High">211.7</DataItem>
+		<DataItem name="52 Week Price Low">164.25</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+</Grid>

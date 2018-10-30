@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170904</DataItem>
+		<DataItem name="Actual Price">3.32</DataItem>
+		<DataItem name="Target Price">3.5715</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170905</DataItem>
+		<DataItem name="Actual Price">3.38</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170906</DataItem>
+		<DataItem name="Actual Price">3.4</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170907</DataItem>
+		<DataItem name="Actual Price">3.4</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170908</DataItem>
+		<DataItem name="Actual Price">3.53</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170911</DataItem>
+		<DataItem name="Actual Price">3.53</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170912</DataItem>
+		<DataItem name="Actual Price">3.46</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170913</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170914</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.574</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170915</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.5845</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170918</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">3.6015</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170919</DataItem>
+		<DataItem name="Actual Price">3.5</DataItem>
+		<DataItem name="Target Price">3.6015</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170920</DataItem>
+		<DataItem name="Actual Price">3.46</DataItem>
+		<DataItem name="Target Price">3.6015</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170921</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.63238</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170922</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.63238</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170925</DataItem>
+		<DataItem name="Actual Price">3.53</DataItem>
+		<DataItem name="Target Price">3.63238</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170926</DataItem>
+		<DataItem name="Actual Price">3.4</DataItem>
+		<DataItem name="Target Price">3.63238</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170927</DataItem>
+		<DataItem name="Actual Price">3.43</DataItem>
+		<DataItem name="Target Price">3.63238</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170928</DataItem>
+		<DataItem name="Actual Price">3.44</DataItem>
+		<DataItem name="Target Price">3.63238</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20170929</DataItem>
+		<DataItem name="Actual Price">3.45</DataItem>
+		<DataItem name="Target Price">3.63238</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171002</DataItem>
+		<DataItem name="Actual Price">3.42</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171003</DataItem>
+		<DataItem name="Actual Price">3.45</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171004</DataItem>
+		<DataItem name="Actual Price">3.44</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171005</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171006</DataItem>
+		<DataItem name="Actual Price">3.45</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171009</DataItem>
+		<DataItem name="Actual Price">3.42</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171010</DataItem>
+		<DataItem name="Actual Price">3.4</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171011</DataItem>
+		<DataItem name="Actual Price">3.4</DataItem>
+		<DataItem name="Target Price">3.63476</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171012</DataItem>
+		<DataItem name="Actual Price">3.43</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171013</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171016</DataItem>
+		<DataItem name="Actual Price">3.5</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171017</DataItem>
+		<DataItem name="Actual Price">3.44</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171018</DataItem>
+		<DataItem name="Actual Price">3.44</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171019</DataItem>
+		<DataItem name="Actual Price">3.38</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171020</DataItem>
+		<DataItem name="Actual Price">3.42</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171023</DataItem>
+		<DataItem name="Actual Price">3.43</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171024</DataItem>
+		<DataItem name="Actual Price">3.37</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171025</DataItem>
+		<DataItem name="Actual Price">3.28</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171026</DataItem>
+		<DataItem name="Actual Price">3.25</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171027</DataItem>
+		<DataItem name="Actual Price">3.2</DataItem>
+		<DataItem name="Target Price">3.6355</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171030</DataItem>
+		<DataItem name="Actual Price">3.18</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171031</DataItem>
+		<DataItem name="Actual Price">3.34</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171101</DataItem>
+		<DataItem name="Actual Price">3.46</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171102</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171103</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171106</DataItem>
+		<DataItem name="Actual Price">3.36</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171107</DataItem>
+		<DataItem name="Actual Price">3.18</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171108</DataItem>
+		<DataItem name="Actual Price">3.26</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171109</DataItem>
+		<DataItem name="Actual Price">3.26</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171110</DataItem>
+		<DataItem name="Actual Price">3.24</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171113</DataItem>
+		<DataItem name="Actual Price">3.22</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171114</DataItem>
+		<DataItem name="Actual Price">3.23</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171115</DataItem>
+		<DataItem name="Actual Price">3.2</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171116</DataItem>
+		<DataItem name="Actual Price">3.17</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171117</DataItem>
+		<DataItem name="Actual Price">3.16</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171120</DataItem>
+		<DataItem name="Actual Price">3.19</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171121</DataItem>
+		<DataItem name="Actual Price">3.18</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171122</DataItem>
+		<DataItem name="Actual Price">3.18</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171123</DataItem>
+		<DataItem name="Actual Price">3.21</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171124</DataItem>
+		<DataItem name="Actual Price">3.16</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171127</DataItem>
+		<DataItem name="Actual Price">3.1</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171128</DataItem>
+		<DataItem name="Actual Price">3.08</DataItem>
+		<DataItem name="Target Price">3.6385</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171129</DataItem>
+		<DataItem name="Actual Price">3.17</DataItem>
+		<DataItem name="Target Price">3.753</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171130</DataItem>
+		<DataItem name="Actual Price">3.14</DataItem>
+		<DataItem name="Target Price">3.753</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171201</DataItem>
+		<DataItem name="Actual Price">3.14</DataItem>
+		<DataItem name="Target Price">3.753</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171204</DataItem>
+		<DataItem name="Actual Price">3.21</DataItem>
+		<DataItem name="Target Price">3.753</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171205</DataItem>
+		<DataItem name="Actual Price">3.2</DataItem>
+		<DataItem name="Target Price">3.753</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171206</DataItem>
+		<DataItem name="Actual Price">3.17</DataItem>
+		<DataItem name="Target Price">3.753</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171207</DataItem>
+		<DataItem name="Actual Price">3.19</DataItem>
+		<DataItem name="Target Price">3.75947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171208</DataItem>
+		<DataItem name="Actual Price">3.22</DataItem>
+		<DataItem name="Target Price">3.75947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171211</DataItem>
+		<DataItem name="Actual Price">3.2</DataItem>
+		<DataItem name="Target Price">3.75947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171212</DataItem>
+		<DataItem name="Actual Price">3.19</DataItem>
+		<DataItem name="Target Price">3.75947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171213</DataItem>
+		<DataItem name="Actual Price">3.23</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171214</DataItem>
+		<DataItem name="Actual Price">3.26</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171215</DataItem>
+		<DataItem name="Actual Price">3.35</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171218</DataItem>
+		<DataItem name="Actual Price">3.38</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171219</DataItem>
+		<DataItem name="Actual Price">3.3</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171220</DataItem>
+		<DataItem name="Actual Price">3.33</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171221</DataItem>
+		<DataItem name="Actual Price">3.3</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171222</DataItem>
+		<DataItem name="Actual Price">3.31</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171225</DataItem>
+		<DataItem name="Actual Price">3.31</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171226</DataItem>
+		<DataItem name="Actual Price">3.29</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171227</DataItem>
+		<DataItem name="Actual Price">3.3</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171228</DataItem>
+		<DataItem name="Actual Price">3.33</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20171229</DataItem>
+		<DataItem name="Actual Price">3.35</DataItem>
+		<DataItem name="Target Price">3.76895</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180101</DataItem>
+		<DataItem name="Actual Price">3.35</DataItem>
+		<DataItem name="Target Price">3.74222</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180102</DataItem>
+		<DataItem name="Actual Price">3.34</DataItem>
+		<DataItem name="Target Price">3.71444</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180103</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">3.72947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180104</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">3.72947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180105</DataItem>
+		<DataItem name="Actual Price">3.59</DataItem>
+		<DataItem name="Target Price">3.72947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180108</DataItem>
+		<DataItem name="Actual Price">3.59</DataItem>
+		<DataItem name="Target Price">3.72947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180109</DataItem>
+		<DataItem name="Actual Price">3.74</DataItem>
+		<DataItem name="Target Price">3.72947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180110</DataItem>
+		<DataItem name="Actual Price">3.78</DataItem>
+		<DataItem name="Target Price">3.73556</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180111</DataItem>
+		<DataItem name="Actual Price">3.77</DataItem>
+		<DataItem name="Target Price">3.73556</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180112</DataItem>
+		<DataItem name="Actual Price">3.82</DataItem>
+		<DataItem name="Target Price">3.80474</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180115</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">3.92842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180116</DataItem>
+		<DataItem name="Actual Price">3.83</DataItem>
+		<DataItem name="Target Price">3.92842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180117</DataItem>
+		<DataItem name="Actual Price">3.9</DataItem>
+		<DataItem name="Target Price">3.99263</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180118</DataItem>
+		<DataItem name="Actual Price">3.85</DataItem>
+		<DataItem name="Target Price">3.99263</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180119</DataItem>
+		<DataItem name="Actual Price">3.9</DataItem>
+		<DataItem name="Target Price">3.99263</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180122</DataItem>
+		<DataItem name="Actual Price">4.14</DataItem>
+		<DataItem name="Target Price">3.99263</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180123</DataItem>
+		<DataItem name="Actual Price">4.13</DataItem>
+		<DataItem name="Target Price">3.99263</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180124</DataItem>
+		<DataItem name="Actual Price">4.11</DataItem>
+		<DataItem name="Target Price">3.99263</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180125</DataItem>
+		<DataItem name="Actual Price">4.21</DataItem>
+		<DataItem name="Target Price">3.99263</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180126</DataItem>
+		<DataItem name="Actual Price">4.29</DataItem>
+		<DataItem name="Target Price">4.04526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180129</DataItem>
+		<DataItem name="Actual Price">4.21</DataItem>
+		<DataItem name="Target Price">4.04526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180130</DataItem>
+		<DataItem name="Actual Price">4.14</DataItem>
+		<DataItem name="Target Price">4.04526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180131</DataItem>
+		<DataItem name="Actual Price">4.14</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180201</DataItem>
+		<DataItem name="Actual Price">4.14</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180202</DataItem>
+		<DataItem name="Actual Price">4.3</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180205</DataItem>
+		<DataItem name="Actual Price">4.15</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180206</DataItem>
+		<DataItem name="Actual Price">4.01</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180207</DataItem>
+		<DataItem name="Actual Price">4.11</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180208</DataItem>
+		<DataItem name="Actual Price">4.12</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180209</DataItem>
+		<DataItem name="Actual Price">4.13</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180212</DataItem>
+		<DataItem name="Actual Price">4.15</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180213</DataItem>
+		<DataItem name="Actual Price">4.23</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180214</DataItem>
+		<DataItem name="Actual Price">4.25</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180215</DataItem>
+		<DataItem name="Actual Price">4.32</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180216</DataItem>
+		<DataItem name="Actual Price">4.32</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180219</DataItem>
+		<DataItem name="Actual Price">4.25</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180220</DataItem>
+		<DataItem name="Actual Price">4.3</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180221</DataItem>
+		<DataItem name="Actual Price">4.31</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180222</DataItem>
+		<DataItem name="Actual Price">4.4</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180223</DataItem>
+		<DataItem name="Actual Price">4.43</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180226</DataItem>
+		<DataItem name="Actual Price">4.46</DataItem>
+		<DataItem name="Target Price">4.028</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180227</DataItem>
+		<DataItem name="Actual Price">4.46</DataItem>
+		<DataItem name="Target Price">4.401</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180228</DataItem>
+		<DataItem name="Actual Price">4.38</DataItem>
+		<DataItem name="Target Price">4.36368</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180301</DataItem>
+		<DataItem name="Actual Price">4.6</DataItem>
+		<DataItem name="Target Price">4.42053</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180302</DataItem>
+		<DataItem name="Actual Price">4.35</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180305</DataItem>
+		<DataItem name="Actual Price">4.25</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180306</DataItem>
+		<DataItem name="Actual Price">4.2</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180307</DataItem>
+		<DataItem name="Actual Price">3.96</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180308</DataItem>
+		<DataItem name="Actual Price">3.97</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180309</DataItem>
+		<DataItem name="Actual Price">4</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180312</DataItem>
+		<DataItem name="Actual Price">4.08</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180313</DataItem>
+		<DataItem name="Actual Price">4</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180314</DataItem>
+		<DataItem name="Actual Price">4.16</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180315</DataItem>
+		<DataItem name="Actual Price">4.1</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180316</DataItem>
+		<DataItem name="Actual Price">4.15</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180319</DataItem>
+		<DataItem name="Actual Price">4.12</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180320</DataItem>
+		<DataItem name="Actual Price">4.11</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180321</DataItem>
+		<DataItem name="Actual Price">4.06</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180322</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180323</DataItem>
+		<DataItem name="Actual Price">4.01</DataItem>
+		<DataItem name="Target Price">4.42947</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180326</DataItem>
+		<DataItem name="Actual Price">3.94</DataItem>
+		<DataItem name="Target Price">4.45316</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180327</DataItem>
+		<DataItem name="Actual Price">3.99</DataItem>
+		<DataItem name="Target Price">4.45316</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180328</DataItem>
+		<DataItem name="Actual Price">3.94</DataItem>
+		<DataItem name="Target Price">4.45316</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180329</DataItem>
+		<DataItem name="Actual Price">3.96</DataItem>
+		<DataItem name="Target Price">4.45316</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180330</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4225</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180402</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4225</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180403</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4225</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180404</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4225</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180405</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4225</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180406</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4325</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180409</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4325</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180410</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4325</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180411</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4325</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180412</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4325</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180413</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.4325</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180416</DataItem>
+		<DataItem name="Actual Price">3.93</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180417</DataItem>
+		<DataItem name="Actual Price">3.88</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180418</DataItem>
+		<DataItem name="Actual Price">3.89</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180419</DataItem>
+		<DataItem name="Actual Price">3.78</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180420</DataItem>
+		<DataItem name="Actual Price">3.8</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180423</DataItem>
+		<DataItem name="Actual Price">3.77</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180424</DataItem>
+		<DataItem name="Actual Price">3.77</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180425</DataItem>
+		<DataItem name="Actual Price">3.69</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180426</DataItem>
+		<DataItem name="Actual Price">3.74</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180427</DataItem>
+		<DataItem name="Actual Price">3.97</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180430</DataItem>
+		<DataItem name="Actual Price">3.85</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180501</DataItem>
+		<DataItem name="Actual Price">3.85</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180502</DataItem>
+		<DataItem name="Actual Price">3.83</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180503</DataItem>
+		<DataItem name="Actual Price">3.72</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180504</DataItem>
+		<DataItem name="Actual Price">3.71</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180507</DataItem>
+		<DataItem name="Actual Price">3.7</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180508</DataItem>
+		<DataItem name="Actual Price">3.7</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180509</DataItem>
+		<DataItem name="Actual Price">3.7</DataItem>
+		<DataItem name="Target Price">4.45526</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180510</DataItem>
+		<DataItem name="Actual Price">3.7</DataItem>
+		<DataItem name="Target Price">4.54333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180511</DataItem>
+		<DataItem name="Actual Price">3.7</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180514</DataItem>
+		<DataItem name="Actual Price">3.5</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180515</DataItem>
+		<DataItem name="Actual Price">3.41</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180516</DataItem>
+		<DataItem name="Actual Price">3.48</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180517</DataItem>
+		<DataItem name="Actual Price">3.46</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180518</DataItem>
+		<DataItem name="Actual Price">3.21</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180521</DataItem>
+		<DataItem name="Actual Price">3.29</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180522</DataItem>
+		<DataItem name="Actual Price">3.28</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180523</DataItem>
+		<DataItem name="Actual Price">3.27</DataItem>
+		<DataItem name="Target Price">4.46167</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180524</DataItem>
+		<DataItem name="Actual Price">3.23</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180525</DataItem>
+		<DataItem name="Actual Price">3.22</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180528</DataItem>
+		<DataItem name="Actual Price">3.31</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180529</DataItem>
+		<DataItem name="Actual Price">3.31</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180530</DataItem>
+		<DataItem name="Actual Price">3.08</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180531</DataItem>
+		<DataItem name="Actual Price">3.07</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180601</DataItem>
+		<DataItem name="Actual Price">3.13</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180604</DataItem>
+		<DataItem name="Actual Price">3.1</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180605</DataItem>
+		<DataItem name="Actual Price">3.23</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180606</DataItem>
+		<DataItem name="Actual Price">3.26</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180607</DataItem>
+		<DataItem name="Actual Price">3.19</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180608</DataItem>
+		<DataItem name="Actual Price">3.2</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180611</DataItem>
+		<DataItem name="Actual Price">3.27</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180612</DataItem>
+		<DataItem name="Actual Price">3.08</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180613</DataItem>
+		<DataItem name="Actual Price">3.13</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180614</DataItem>
+		<DataItem name="Actual Price">3.2</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180615</DataItem>
+		<DataItem name="Actual Price">3.2</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180618</DataItem>
+		<DataItem name="Actual Price">3.19</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180619</DataItem>
+		<DataItem name="Actual Price">3.09</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180620</DataItem>
+		<DataItem name="Actual Price">3.11</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180621</DataItem>
+		<DataItem name="Actual Price">3.12</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180622</DataItem>
+		<DataItem name="Actual Price">3.1</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180625</DataItem>
+		<DataItem name="Actual Price">3.03</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180626</DataItem>
+		<DataItem name="Actual Price">3.05</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180627</DataItem>
+		<DataItem name="Actual Price">3</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180628</DataItem>
+		<DataItem name="Actual Price">3.04</DataItem>
+		<DataItem name="Target Price">4.25684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180629</DataItem>
+		<DataItem name="Actual Price">2.99</DataItem>
+		<DataItem name="Target Price">4.20684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180702</DataItem>
+		<DataItem name="Actual Price">3.14</DataItem>
+		<DataItem name="Target Price">4.20684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180703</DataItem>
+		<DataItem name="Actual Price">3.05</DataItem>
+		<DataItem name="Target Price">4.20684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180704</DataItem>
+		<DataItem name="Actual Price">3.08</DataItem>
+		<DataItem name="Target Price">4.20684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180705</DataItem>
+		<DataItem name="Actual Price">3.1</DataItem>
+		<DataItem name="Target Price">4.20684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180706</DataItem>
+		<DataItem name="Actual Price">3.04</DataItem>
+		<DataItem name="Target Price">4.20684</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180709</DataItem>
+		<DataItem name="Actual Price">3</DataItem>
+		<DataItem name="Target Price">4.1615</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180710</DataItem>
+		<DataItem name="Actual Price">3.05</DataItem>
+		<DataItem name="Target Price">4.1615</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180711</DataItem>
+		<DataItem name="Actual Price">2.99</DataItem>
+		<DataItem name="Target Price">4.1615</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180712</DataItem>
+		<DataItem name="Actual Price">3.03</DataItem>
+		<DataItem name="Target Price">4.149</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180713</DataItem>
+		<DataItem name="Actual Price">3.05</DataItem>
+		<DataItem name="Target Price">4.14421</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180716</DataItem>
+		<DataItem name="Actual Price">3.16</DataItem>
+		<DataItem name="Target Price">4.14421</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180717</DataItem>
+		<DataItem name="Actual Price">3.12</DataItem>
+		<DataItem name="Target Price">4.13842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180718</DataItem>
+		<DataItem name="Actual Price">3.21</DataItem>
+		<DataItem name="Target Price">4.13842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180719</DataItem>
+		<DataItem name="Actual Price">3.23</DataItem>
+		<DataItem name="Target Price">4.13842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180720</DataItem>
+		<DataItem name="Actual Price">3.25</DataItem>
+		<DataItem name="Target Price">4.13842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180723</DataItem>
+		<DataItem name="Actual Price">3.4</DataItem>
+		<DataItem name="Target Price">4.13842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180724</DataItem>
+		<DataItem name="Actual Price">3.38</DataItem>
+		<DataItem name="Target Price">4.13842</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180725</DataItem>
+		<DataItem name="Actual Price">3.4</DataItem>
+		<DataItem name="Target Price">4.13222</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180726</DataItem>
+		<DataItem name="Actual Price">3.51</DataItem>
+		<DataItem name="Target Price">4.13222</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180727</DataItem>
+		<DataItem name="Actual Price">3.5</DataItem>
+		<DataItem name="Target Price">4.13222</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180730</DataItem>
+		<DataItem name="Actual Price">3.51</DataItem>
+		<DataItem name="Target Price">4.14588</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180731</DataItem>
+		<DataItem name="Actual Price">3.56</DataItem>
+		<DataItem name="Target Price">4.14588</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180801</DataItem>
+		<DataItem name="Actual Price">3.59</DataItem>
+		<DataItem name="Target Price">4.14588</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180802</DataItem>
+		<DataItem name="Actual Price">3.51</DataItem>
+		<DataItem name="Target Price">4.14588</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180803</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">4.14588</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180806</DataItem>
+		<DataItem name="Actual Price">3.53</DataItem>
+		<DataItem name="Target Price">4.11556</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180807</DataItem>
+		<DataItem name="Actual Price">3.6</DataItem>
+		<DataItem name="Target Price">4.11556</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180808</DataItem>
+		<DataItem name="Actual Price">3.55</DataItem>
+		<DataItem name="Target Price">4.11556</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180809</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180810</DataItem>
+		<DataItem name="Actual Price">3.45</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180813</DataItem>
+		<DataItem name="Actual Price">3.39</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180814</DataItem>
+		<DataItem name="Actual Price">3.35</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180815</DataItem>
+		<DataItem name="Actual Price">3.37</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180816</DataItem>
+		<DataItem name="Actual Price">3.38</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180817</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180820</DataItem>
+		<DataItem name="Actual Price">3.55</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180821</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180822</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180823</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180824</DataItem>
+		<DataItem name="Actual Price">3.45</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180827</DataItem>
+		<DataItem name="Actual Price">3.45</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180828</DataItem>
+		<DataItem name="Actual Price">3.39</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180829</DataItem>
+		<DataItem name="Actual Price">3.49</DataItem>
+		<DataItem name="Target Price">4.04333</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180830</DataItem>
+		<DataItem name="Actual Price">3.44</DataItem>
+		<DataItem name="Target Price">3.97833</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180831</DataItem>
+		<DataItem name="Actual Price">3.44</DataItem>
+		<DataItem name="Target Price">4.00278</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180903</DataItem>
+		<DataItem name="Actual Price">3.38</DataItem>
+		<DataItem name="Target Price">3.96375</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">5099-MY</DataItem>
+		<DataItem name="Date">20180904</DataItem>
+		<DataItem name="Actual Price">3.31</DataItem>
+		<DataItem name="Target Price">3.96375</DataItem>
+		<DataItem name="Currency">MYR</DataItem>
+	</DataRow>
+</Grid>

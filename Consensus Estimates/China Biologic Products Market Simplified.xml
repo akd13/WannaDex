@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">CBPO-US</DataItem>
+		<DataItem name="Date (Last Close)">20180904</DataItem>
+		<DataItem name="# Ratings">5</DataItem>
+		<DataItem name="% Buy + Overweight Rating">20</DataItem>
+		<DataItem name="% Hold Rating">80</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+		<DataItem name="Target Price">96.6</DataItem>
+		<DataItem name="Price (High Last Close)">90.09</DataItem>
+		<DataItem name="Price (Low Last Close)">88.625</DataItem>
+		<DataItem name="Price (Last Close)">89.48</DataItem>
+		<DataItem name="ADTV (Millions)">9.21707</DataItem>
+		<DataItem name="52 Week Price High">107.444</DataItem>
+		<DataItem name="52 Week Price Low">71.845</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+</Grid>

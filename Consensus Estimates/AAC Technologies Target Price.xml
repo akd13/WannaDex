@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170904</DataItem>
+		<DataItem name="Actual Price">144.9</DataItem>
+		<DataItem name="Target Price">140.82553</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170905</DataItem>
+		<DataItem name="Actual Price">143.8</DataItem>
+		<DataItem name="Target Price">140.98816</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170906</DataItem>
+		<DataItem name="Actual Price">139.1</DataItem>
+		<DataItem name="Target Price">141.5743</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170907</DataItem>
+		<DataItem name="Actual Price">137.5</DataItem>
+		<DataItem name="Target Price">141.87286</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170908</DataItem>
+		<DataItem name="Actual Price">136</DataItem>
+		<DataItem name="Target Price">142.95001</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170911</DataItem>
+		<DataItem name="Actual Price">139.6</DataItem>
+		<DataItem name="Target Price">142.10733</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170912</DataItem>
+		<DataItem name="Actual Price">139.5</DataItem>
+		<DataItem name="Target Price">141.84892</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170913</DataItem>
+		<DataItem name="Actual Price">141.3</DataItem>
+		<DataItem name="Target Price">141.83334</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170914</DataItem>
+		<DataItem name="Actual Price">142</DataItem>
+		<DataItem name="Target Price">141.31952</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170915</DataItem>
+		<DataItem name="Actual Price">137.6</DataItem>
+		<DataItem name="Target Price">143.0216</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170918</DataItem>
+		<DataItem name="Actual Price">143.8</DataItem>
+		<DataItem name="Target Price">142.59981</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170919</DataItem>
+		<DataItem name="Actual Price">141.4</DataItem>
+		<DataItem name="Target Price">141.89548</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170920</DataItem>
+		<DataItem name="Actual Price">143.5</DataItem>
+		<DataItem name="Target Price">142.60863</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170921</DataItem>
+		<DataItem name="Actual Price">140.6</DataItem>
+		<DataItem name="Target Price">142.27287</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170922</DataItem>
+		<DataItem name="Actual Price">136.6</DataItem>
+		<DataItem name="Target Price">142.30235</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170925</DataItem>
+		<DataItem name="Actual Price">127.5</DataItem>
+		<DataItem name="Target Price">141.81834</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170926</DataItem>
+		<DataItem name="Actual Price">126.1</DataItem>
+		<DataItem name="Target Price">141.55351</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170927</DataItem>
+		<DataItem name="Actual Price">133</DataItem>
+		<DataItem name="Target Price">141.41599</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170928</DataItem>
+		<DataItem name="Actual Price">131.2</DataItem>
+		<DataItem name="Target Price">140.69102</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20170929</DataItem>
+		<DataItem name="Actual Price">131.2</DataItem>
+		<DataItem name="Target Price">141.28036</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171002</DataItem>
+		<DataItem name="Actual Price">131.2</DataItem>
+		<DataItem name="Target Price">141.25504</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171003</DataItem>
+		<DataItem name="Actual Price">135</DataItem>
+		<DataItem name="Target Price">141.2849</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171004</DataItem>
+		<DataItem name="Actual Price">136.6</DataItem>
+		<DataItem name="Target Price">141.19897</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171005</DataItem>
+		<DataItem name="Actual Price">136.6</DataItem>
+		<DataItem name="Target Price">141.25777</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171006</DataItem>
+		<DataItem name="Actual Price">134.6</DataItem>
+		<DataItem name="Target Price">141.17998</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171009</DataItem>
+		<DataItem name="Actual Price">131</DataItem>
+		<DataItem name="Target Price">141.50359</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171010</DataItem>
+		<DataItem name="Actual Price">134.2</DataItem>
+		<DataItem name="Target Price">142.36986</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171011</DataItem>
+		<DataItem name="Actual Price">134.5</DataItem>
+		<DataItem name="Target Price">142.40121</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171012</DataItem>
+		<DataItem name="Actual Price">135</DataItem>
+		<DataItem name="Target Price">142.38483</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171013</DataItem>
+		<DataItem name="Actual Price">140</DataItem>
+		<DataItem name="Target Price">142.72067</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171016</DataItem>
+		<DataItem name="Actual Price">142.7</DataItem>
+		<DataItem name="Target Price">142.62001</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171017</DataItem>
+		<DataItem name="Actual Price">146.4</DataItem>
+		<DataItem name="Target Price">142.12257</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171018</DataItem>
+		<DataItem name="Actual Price">140.3</DataItem>
+		<DataItem name="Target Price">142.01416</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171019</DataItem>
+		<DataItem name="Actual Price">136.3</DataItem>
+		<DataItem name="Target Price">141.72478</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171020</DataItem>
+		<DataItem name="Actual Price">140.1</DataItem>
+		<DataItem name="Target Price">142.52046</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171023</DataItem>
+		<DataItem name="Actual Price">140.6</DataItem>
+		<DataItem name="Target Price">142.15309</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171024</DataItem>
+		<DataItem name="Actual Price">136.8</DataItem>
+		<DataItem name="Target Price">142.28685</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171025</DataItem>
+		<DataItem name="Actual Price">135.7</DataItem>
+		<DataItem name="Target Price">142.10005</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171026</DataItem>
+		<DataItem name="Actual Price">136.3</DataItem>
+		<DataItem name="Target Price">142.20808</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171027</DataItem>
+		<DataItem name="Actual Price">137.6</DataItem>
+		<DataItem name="Target Price">141.84668</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171030</DataItem>
+		<DataItem name="Actual Price">141.4</DataItem>
+		<DataItem name="Target Price">141.89305</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171031</DataItem>
+		<DataItem name="Actual Price">142.8</DataItem>
+		<DataItem name="Target Price">142.35748</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171101</DataItem>
+		<DataItem name="Actual Price">144.5</DataItem>
+		<DataItem name="Target Price">142.60226</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171102</DataItem>
+		<DataItem name="Actual Price">142.4</DataItem>
+		<DataItem name="Target Price">142.86717</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171103</DataItem>
+		<DataItem name="Actual Price">139.7</DataItem>
+		<DataItem name="Target Price">145.67657</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171106</DataItem>
+		<DataItem name="Actual Price">153.7</DataItem>
+		<DataItem name="Target Price">145.58116</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171107</DataItem>
+		<DataItem name="Actual Price">156.5</DataItem>
+		<DataItem name="Target Price">145.65063</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171108</DataItem>
+		<DataItem name="Actual Price">159.2</DataItem>
+		<DataItem name="Target Price">145.44388</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171109</DataItem>
+		<DataItem name="Actual Price">163</DataItem>
+		<DataItem name="Target Price">145.96419</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171110</DataItem>
+		<DataItem name="Actual Price">169.4</DataItem>
+		<DataItem name="Target Price">177.20007</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171113</DataItem>
+		<DataItem name="Actual Price">179.2</DataItem>
+		<DataItem name="Target Price">179.51376</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171114</DataItem>
+		<DataItem name="Actual Price">175.1</DataItem>
+		<DataItem name="Target Price">180.61891</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171115</DataItem>
+		<DataItem name="Actual Price">170</DataItem>
+		<DataItem name="Target Price">182.1508</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171116</DataItem>
+		<DataItem name="Actual Price">173.5</DataItem>
+		<DataItem name="Target Price">182.49236</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171117</DataItem>
+		<DataItem name="Actual Price">173.3</DataItem>
+		<DataItem name="Target Price">182.4657</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171120</DataItem>
+		<DataItem name="Actual Price">174.1</DataItem>
+		<DataItem name="Target Price">182.60104</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171121</DataItem>
+		<DataItem name="Actual Price">176.8</DataItem>
+		<DataItem name="Target Price">182.46103</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171122</DataItem>
+		<DataItem name="Actual Price">177</DataItem>
+		<DataItem name="Target Price">182.96277</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171123</DataItem>
+		<DataItem name="Actual Price">169.5</DataItem>
+		<DataItem name="Target Price">184.4921</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171124</DataItem>
+		<DataItem name="Actual Price">169.8</DataItem>
+		<DataItem name="Target Price">183.80183</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171127</DataItem>
+		<DataItem name="Actual Price">165.1</DataItem>
+		<DataItem name="Target Price">183.78084</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171128</DataItem>
+		<DataItem name="Actual Price">172.2</DataItem>
+		<DataItem name="Target Price">185.40942</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171129</DataItem>
+		<DataItem name="Actual Price">166.6</DataItem>
+		<DataItem name="Target Price">186.63055</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171130</DataItem>
+		<DataItem name="Actual Price">156.3</DataItem>
+		<DataItem name="Target Price">186.30617</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171201</DataItem>
+		<DataItem name="Actual Price">153.4</DataItem>
+		<DataItem name="Target Price">186.38182</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171204</DataItem>
+		<DataItem name="Actual Price">153.2</DataItem>
+		<DataItem name="Target Price">191.26144</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171205</DataItem>
+		<DataItem name="Actual Price">149.8</DataItem>
+		<DataItem name="Target Price">191.31139</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171206</DataItem>
+		<DataItem name="Actual Price">138.9</DataItem>
+		<DataItem name="Target Price">191.36179</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171207</DataItem>
+		<DataItem name="Actual Price">143</DataItem>
+		<DataItem name="Target Price">192.94084</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171208</DataItem>
+		<DataItem name="Actual Price">148.9</DataItem>
+		<DataItem name="Target Price">189.63303</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171211</DataItem>
+		<DataItem name="Actual Price">153</DataItem>
+		<DataItem name="Target Price">189.66714</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171212</DataItem>
+		<DataItem name="Actual Price">147.6</DataItem>
+		<DataItem name="Target Price">189.56438</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171213</DataItem>
+		<DataItem name="Actual Price">145.9</DataItem>
+		<DataItem name="Target Price">189.56158</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171214</DataItem>
+		<DataItem name="Actual Price">140.9</DataItem>
+		<DataItem name="Target Price">189.94008</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171215</DataItem>
+		<DataItem name="Actual Price">139.4</DataItem>
+		<DataItem name="Target Price">190.10207</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171218</DataItem>
+		<DataItem name="Actual Price">137.1</DataItem>
+		<DataItem name="Target Price">189.91144</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171219</DataItem>
+		<DataItem name="Actual Price">140.6</DataItem>
+		<DataItem name="Target Price">190.20686</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171220</DataItem>
+		<DataItem name="Actual Price">139.6</DataItem>
+		<DataItem name="Target Price">191.09618</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171221</DataItem>
+		<DataItem name="Actual Price">142.5</DataItem>
+		<DataItem name="Target Price">190.77138</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171222</DataItem>
+		<DataItem name="Actual Price">142.5</DataItem>
+		<DataItem name="Target Price">191.096</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171225</DataItem>
+		<DataItem name="Actual Price">142.5</DataItem>
+		<DataItem name="Target Price">191.0961</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171226</DataItem>
+		<DataItem name="Actual Price">142.5</DataItem>
+		<DataItem name="Target Price">191.7739</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171227</DataItem>
+		<DataItem name="Actual Price">137.3</DataItem>
+		<DataItem name="Target Price">191.42554</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171228</DataItem>
+		<DataItem name="Actual Price">142.5</DataItem>
+		<DataItem name="Target Price">192.06662</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20171229</DataItem>
+		<DataItem name="Actual Price">139.4</DataItem>
+		<DataItem name="Target Price">192.63327</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180101</DataItem>
+		<DataItem name="Actual Price">139.4</DataItem>
+		<DataItem name="Target Price">192.34363</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180102</DataItem>
+		<DataItem name="Actual Price">149.8</DataItem>
+		<DataItem name="Target Price">192.59608</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180103</DataItem>
+		<DataItem name="Actual Price">152.5</DataItem>
+		<DataItem name="Target Price">191.72298</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180104</DataItem>
+		<DataItem name="Actual Price">150.5</DataItem>
+		<DataItem name="Target Price">191.89656</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180105</DataItem>
+		<DataItem name="Actual Price">150.4</DataItem>
+		<DataItem name="Target Price">191.67462</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180108</DataItem>
+		<DataItem name="Actual Price">147.3</DataItem>
+		<DataItem name="Target Price">191.43947</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180109</DataItem>
+		<DataItem name="Actual Price">145.5</DataItem>
+		<DataItem name="Target Price">190.63843</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180110</DataItem>
+		<DataItem name="Actual Price">142.4</DataItem>
+		<DataItem name="Target Price">190.82863</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180111</DataItem>
+		<DataItem name="Actual Price">148.7</DataItem>
+		<DataItem name="Target Price">190.01923</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180112</DataItem>
+		<DataItem name="Actual Price">147.7</DataItem>
+		<DataItem name="Target Price">191.20293</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180115</DataItem>
+		<DataItem name="Actual Price">144.7</DataItem>
+		<DataItem name="Target Price">191.98813</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180116</DataItem>
+		<DataItem name="Actual Price">139.7</DataItem>
+		<DataItem name="Target Price">190.73164</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180117</DataItem>
+		<DataItem name="Actual Price">140.3</DataItem>
+		<DataItem name="Target Price">190.75926</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180118</DataItem>
+		<DataItem name="Actual Price">134.6</DataItem>
+		<DataItem name="Target Price">190.92104</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180119</DataItem>
+		<DataItem name="Actual Price">135.9</DataItem>
+		<DataItem name="Target Price">190.49301</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180122</DataItem>
+		<DataItem name="Actual Price">137.2</DataItem>
+		<DataItem name="Target Price">189.85808</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180123</DataItem>
+		<DataItem name="Actual Price">137</DataItem>
+		<DataItem name="Target Price">189.48631</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180124</DataItem>
+		<DataItem name="Actual Price">135</DataItem>
+		<DataItem name="Target Price">189.95573</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180125</DataItem>
+		<DataItem name="Actual Price">133.3</DataItem>
+		<DataItem name="Target Price">189.81708</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180126</DataItem>
+		<DataItem name="Actual Price">136</DataItem>
+		<DataItem name="Target Price">188.3184</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180129</DataItem>
+		<DataItem name="Actual Price">131</DataItem>
+		<DataItem name="Target Price">187.42351</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180130</DataItem>
+		<DataItem name="Actual Price">128.8</DataItem>
+		<DataItem name="Target Price">186.83371</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180131</DataItem>
+		<DataItem name="Actual Price">130.8</DataItem>
+		<DataItem name="Target Price">188.36975</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180201</DataItem>
+		<DataItem name="Actual Price">131.5</DataItem>
+		<DataItem name="Target Price">189.54039</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180202</DataItem>
+		<DataItem name="Actual Price">141.1</DataItem>
+		<DataItem name="Target Price">190.45016</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180205</DataItem>
+		<DataItem name="Actual Price">147</DataItem>
+		<DataItem name="Target Price">189.91919</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180206</DataItem>
+		<DataItem name="Actual Price">137.3</DataItem>
+		<DataItem name="Target Price">190.38277</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180207</DataItem>
+		<DataItem name="Actual Price">139</DataItem>
+		<DataItem name="Target Price">190.80417</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180208</DataItem>
+		<DataItem name="Actual Price">143.9</DataItem>
+		<DataItem name="Target Price">188.91043</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180209</DataItem>
+		<DataItem name="Actual Price">144.2</DataItem>
+		<DataItem name="Target Price">189.67282</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180212</DataItem>
+		<DataItem name="Actual Price">144</DataItem>
+		<DataItem name="Target Price">188.83325</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180213</DataItem>
+		<DataItem name="Actual Price">148.9</DataItem>
+		<DataItem name="Target Price">188.44011</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180214</DataItem>
+		<DataItem name="Actual Price">148</DataItem>
+		<DataItem name="Target Price">188.39586</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180215</DataItem>
+		<DataItem name="Actual Price">153</DataItem>
+		<DataItem name="Target Price">188.35492</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180216</DataItem>
+		<DataItem name="Actual Price">153</DataItem>
+		<DataItem name="Target Price">188.38744</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180219</DataItem>
+		<DataItem name="Actual Price">153</DataItem>
+		<DataItem name="Target Price">188.39586</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180220</DataItem>
+		<DataItem name="Actual Price">156.9</DataItem>
+		<DataItem name="Target Price">188.4368</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180221</DataItem>
+		<DataItem name="Actual Price">157.8</DataItem>
+		<DataItem name="Target Price">188.48135</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180222</DataItem>
+		<DataItem name="Actual Price">155.2</DataItem>
+		<DataItem name="Target Price">187.97736</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180223</DataItem>
+		<DataItem name="Actual Price">153.5</DataItem>
+		<DataItem name="Target Price">188.64948</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180226</DataItem>
+		<DataItem name="Actual Price">155.6</DataItem>
+		<DataItem name="Target Price">189.8512</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180227</DataItem>
+		<DataItem name="Actual Price">155.2</DataItem>
+		<DataItem name="Target Price">189.78584</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180228</DataItem>
+		<DataItem name="Actual Price">155.9</DataItem>
+		<DataItem name="Target Price">189.07233</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180301</DataItem>
+		<DataItem name="Actual Price">153.5</DataItem>
+		<DataItem name="Target Price">188.74915</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180302</DataItem>
+		<DataItem name="Actual Price">151.8</DataItem>
+		<DataItem name="Target Price">188.7288</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180305</DataItem>
+		<DataItem name="Actual Price">148.7</DataItem>
+		<DataItem name="Target Price">188.94246</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180306</DataItem>
+		<DataItem name="Actual Price">153</DataItem>
+		<DataItem name="Target Price">189.002</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180307</DataItem>
+		<DataItem name="Actual Price">149</DataItem>
+		<DataItem name="Target Price">189.60854</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180308</DataItem>
+		<DataItem name="Actual Price">150.9</DataItem>
+		<DataItem name="Target Price">189.43604</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180309</DataItem>
+		<DataItem name="Actual Price">159.4</DataItem>
+		<DataItem name="Target Price">189.2072</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180312</DataItem>
+		<DataItem name="Actual Price">160.6</DataItem>
+		<DataItem name="Target Price">189.67892</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180313</DataItem>
+		<DataItem name="Actual Price">159.9</DataItem>
+		<DataItem name="Target Price">189.43199</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180314</DataItem>
+		<DataItem name="Actual Price">155.4</DataItem>
+		<DataItem name="Target Price">189.81529</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180315</DataItem>
+		<DataItem name="Actual Price">155</DataItem>
+		<DataItem name="Target Price">189.66777</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180316</DataItem>
+		<DataItem name="Actual Price">154.3</DataItem>
+		<DataItem name="Target Price">189.62007</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180319</DataItem>
+		<DataItem name="Actual Price">152.2</DataItem>
+		<DataItem name="Target Price">189.37016</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180320</DataItem>
+		<DataItem name="Actual Price">159</DataItem>
+		<DataItem name="Target Price">189.46013</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180321</DataItem>
+		<DataItem name="Actual Price">153.5</DataItem>
+		<DataItem name="Target Price">189.66971</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180322</DataItem>
+		<DataItem name="Actual Price">156.2</DataItem>
+		<DataItem name="Target Price">190.00616</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180323</DataItem>
+		<DataItem name="Actual Price">145.6</DataItem>
+		<DataItem name="Target Price">189.88876</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180326</DataItem>
+		<DataItem name="Actual Price">144.9</DataItem>
+		<DataItem name="Target Price">190.96375</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180327</DataItem>
+		<DataItem name="Actual Price">151.7</DataItem>
+		<DataItem name="Target Price">185.85287</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180328</DataItem>
+		<DataItem name="Actual Price">142.1</DataItem>
+		<DataItem name="Target Price">187.29727</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180329</DataItem>
+		<DataItem name="Actual Price">141.6</DataItem>
+		<DataItem name="Target Price">187.247</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180330</DataItem>
+		<DataItem name="Actual Price">141.6</DataItem>
+		<DataItem name="Target Price">187.24615</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180402</DataItem>
+		<DataItem name="Actual Price">141.6</DataItem>
+		<DataItem name="Target Price">187.58612</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180403</DataItem>
+		<DataItem name="Actual Price">143</DataItem>
+		<DataItem name="Target Price">187.84479</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180404</DataItem>
+		<DataItem name="Actual Price">134.6</DataItem>
+		<DataItem name="Target Price">187.39693</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180405</DataItem>
+		<DataItem name="Actual Price">134.6</DataItem>
+		<DataItem name="Target Price">187.41231</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180406</DataItem>
+		<DataItem name="Actual Price">137.4</DataItem>
+		<DataItem name="Target Price">187.0464</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180409</DataItem>
+		<DataItem name="Actual Price">138.3</DataItem>
+		<DataItem name="Target Price">186.74927</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180410</DataItem>
+		<DataItem name="Actual Price">147.7</DataItem>
+		<DataItem name="Target Price">187.18219</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180411</DataItem>
+		<DataItem name="Actual Price">144.3</DataItem>
+		<DataItem name="Target Price">187.50226</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180412</DataItem>
+		<DataItem name="Actual Price">144.1</DataItem>
+		<DataItem name="Target Price">187.61293</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180413</DataItem>
+		<DataItem name="Actual Price">143.5</DataItem>
+		<DataItem name="Target Price">187.62863</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180416</DataItem>
+		<DataItem name="Actual Price">140.6</DataItem>
+		<DataItem name="Target Price">187.73349</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180417</DataItem>
+		<DataItem name="Actual Price">134.2</DataItem>
+		<DataItem name="Target Price">187.87675</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180418</DataItem>
+		<DataItem name="Actual Price">131.5</DataItem>
+		<DataItem name="Target Price">187.6335</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180419</DataItem>
+		<DataItem name="Actual Price">130.8</DataItem>
+		<DataItem name="Target Price">186.62744</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180420</DataItem>
+		<DataItem name="Actual Price">121.3</DataItem>
+		<DataItem name="Target Price">186.89513</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180423</DataItem>
+		<DataItem name="Actual Price">119</DataItem>
+		<DataItem name="Target Price">186.46909</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180424</DataItem>
+		<DataItem name="Actual Price">118.9</DataItem>
+		<DataItem name="Target Price">184.06534</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180425</DataItem>
+		<DataItem name="Actual Price">117.4</DataItem>
+		<DataItem name="Target Price">181.56145</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180426</DataItem>
+		<DataItem name="Actual Price">113.3</DataItem>
+		<DataItem name="Target Price">181.31557</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180427</DataItem>
+		<DataItem name="Actual Price">113.2</DataItem>
+		<DataItem name="Target Price">180.25731</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180430</DataItem>
+		<DataItem name="Actual Price">114.3</DataItem>
+		<DataItem name="Target Price">180.2619</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180501</DataItem>
+		<DataItem name="Actual Price">114.3</DataItem>
+		<DataItem name="Target Price">179.65038</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180502</DataItem>
+		<DataItem name="Actual Price">113.6</DataItem>
+		<DataItem name="Target Price">179.31378</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180503</DataItem>
+		<DataItem name="Actual Price">113.5</DataItem>
+		<DataItem name="Target Price">179.2732</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180504</DataItem>
+		<DataItem name="Actual Price">111.4</DataItem>
+		<DataItem name="Target Price">178.489</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180507</DataItem>
+		<DataItem name="Actual Price">112.8</DataItem>
+		<DataItem name="Target Price">176.45113</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180508</DataItem>
+		<DataItem name="Actual Price">117.7</DataItem>
+		<DataItem name="Target Price">176.36069</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180509</DataItem>
+		<DataItem name="Actual Price">117.5</DataItem>
+		<DataItem name="Target Price">176.0959</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180510</DataItem>
+		<DataItem name="Actual Price">119.5</DataItem>
+		<DataItem name="Target Price">176.49854</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180511</DataItem>
+		<DataItem name="Actual Price">121.7</DataItem>
+		<DataItem name="Target Price">177.29874</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180514</DataItem>
+		<DataItem name="Actual Price">115.8</DataItem>
+		<DataItem name="Target Price">153.27364</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180515</DataItem>
+		<DataItem name="Actual Price">110.1</DataItem>
+		<DataItem name="Target Price">148.8866</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180516</DataItem>
+		<DataItem name="Actual Price">112.8</DataItem>
+		<DataItem name="Target Price">148.55695</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180517</DataItem>
+		<DataItem name="Actual Price">114</DataItem>
+		<DataItem name="Target Price">147.24054</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180518</DataItem>
+		<DataItem name="Actual Price">113.4</DataItem>
+		<DataItem name="Target Price">145.79214</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180521</DataItem>
+		<DataItem name="Actual Price">118.7</DataItem>
+		<DataItem name="Target Price">145.47911</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180522</DataItem>
+		<DataItem name="Actual Price">118.7</DataItem>
+		<DataItem name="Target Price">145.08601</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180523</DataItem>
+		<DataItem name="Actual Price">114.8</DataItem>
+		<DataItem name="Target Price">144.74022</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180524</DataItem>
+		<DataItem name="Actual Price">116.2</DataItem>
+		<DataItem name="Target Price">144.75342</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180525</DataItem>
+		<DataItem name="Actual Price">113.1</DataItem>
+		<DataItem name="Target Price">144.674</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180528</DataItem>
+		<DataItem name="Actual Price">116.6</DataItem>
+		<DataItem name="Target Price">144.58139</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180529</DataItem>
+		<DataItem name="Actual Price">119.7</DataItem>
+		<DataItem name="Target Price">144.01582</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180530</DataItem>
+		<DataItem name="Actual Price">117.6</DataItem>
+		<DataItem name="Target Price">143.92459</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180531</DataItem>
+		<DataItem name="Actual Price">118.1</DataItem>
+		<DataItem name="Target Price">144.38629</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180601</DataItem>
+		<DataItem name="Actual Price">116.2</DataItem>
+		<DataItem name="Target Price">144.11153</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180604</DataItem>
+		<DataItem name="Actual Price">119.3</DataItem>
+		<DataItem name="Target Price">144.24652</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180605</DataItem>
+		<DataItem name="Actual Price">120.7</DataItem>
+		<DataItem name="Target Price">144.16386</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180606</DataItem>
+		<DataItem name="Actual Price">131.9</DataItem>
+		<DataItem name="Target Price">144.30167</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180607</DataItem>
+		<DataItem name="Actual Price">131.3</DataItem>
+		<DataItem name="Target Price">144.31808</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180608</DataItem>
+		<DataItem name="Actual Price">127.1</DataItem>
+		<DataItem name="Target Price">143.98875</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180611</DataItem>
+		<DataItem name="Actual Price">127.9</DataItem>
+		<DataItem name="Target Price">144.19525</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180612</DataItem>
+		<DataItem name="Actual Price">126.8</DataItem>
+		<DataItem name="Target Price">144.16333</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180613</DataItem>
+		<DataItem name="Actual Price">121.6</DataItem>
+		<DataItem name="Target Price">144.14636</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180614</DataItem>
+		<DataItem name="Actual Price">119.4</DataItem>
+		<DataItem name="Target Price">145.02219</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180615</DataItem>
+		<DataItem name="Actual Price">120.3</DataItem>
+		<DataItem name="Target Price">144.49178</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180618</DataItem>
+		<DataItem name="Actual Price">120.3</DataItem>
+		<DataItem name="Target Price">144.50479</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180619</DataItem>
+		<DataItem name="Actual Price">116.3</DataItem>
+		<DataItem name="Target Price">143.36295</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180620</DataItem>
+		<DataItem name="Actual Price">117.2</DataItem>
+		<DataItem name="Target Price">143.39944</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180621</DataItem>
+		<DataItem name="Actual Price">115.4</DataItem>
+		<DataItem name="Target Price">142.79057</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180622</DataItem>
+		<DataItem name="Actual Price">115.8</DataItem>
+		<DataItem name="Target Price">142.8456</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180625</DataItem>
+		<DataItem name="Actual Price">113.6</DataItem>
+		<DataItem name="Target Price">142.2902</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180626</DataItem>
+		<DataItem name="Actual Price">109.5</DataItem>
+		<DataItem name="Target Price">141.65761</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180627</DataItem>
+		<DataItem name="Actual Price">101.5</DataItem>
+		<DataItem name="Target Price">140.8381</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180628</DataItem>
+		<DataItem name="Actual Price">103.8</DataItem>
+		<DataItem name="Target Price">140.16948</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180629</DataItem>
+		<DataItem name="Actual Price">110.5</DataItem>
+		<DataItem name="Target Price">139.66568</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180702</DataItem>
+		<DataItem name="Actual Price">110.5</DataItem>
+		<DataItem name="Target Price">139.13173</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180703</DataItem>
+		<DataItem name="Actual Price">108</DataItem>
+		<DataItem name="Target Price">138.88394</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180704</DataItem>
+		<DataItem name="Actual Price">103.9</DataItem>
+		<DataItem name="Target Price">139.41888</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180705</DataItem>
+		<DataItem name="Actual Price">105.5</DataItem>
+		<DataItem name="Target Price">137.40128</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180706</DataItem>
+		<DataItem name="Actual Price">105.9</DataItem>
+		<DataItem name="Target Price">136.0553</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180709</DataItem>
+		<DataItem name="Actual Price">107.1</DataItem>
+		<DataItem name="Target Price">136.65388</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180710</DataItem>
+		<DataItem name="Actual Price">105.9</DataItem>
+		<DataItem name="Target Price">136.54745</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180711</DataItem>
+		<DataItem name="Actual Price">105</DataItem>
+		<DataItem name="Target Price">135.68507</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180712</DataItem>
+		<DataItem name="Actual Price">105.7</DataItem>
+		<DataItem name="Target Price">135.66885</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180713</DataItem>
+		<DataItem name="Actual Price">108.3</DataItem>
+		<DataItem name="Target Price">135.26944</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180716</DataItem>
+		<DataItem name="Actual Price">110.1</DataItem>
+		<DataItem name="Target Price">135.63605</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180717</DataItem>
+		<DataItem name="Actual Price">107.8</DataItem>
+		<DataItem name="Target Price">135.20493</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180718</DataItem>
+		<DataItem name="Actual Price">103.3</DataItem>
+		<DataItem name="Target Price">133.93533</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180719</DataItem>
+		<DataItem name="Actual Price">101.6</DataItem>
+		<DataItem name="Target Price">131.95782</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180720</DataItem>
+		<DataItem name="Actual Price">100</DataItem>
+		<DataItem name="Target Price">131.53882</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180723</DataItem>
+		<DataItem name="Actual Price">97.8</DataItem>
+		<DataItem name="Target Price">131.01076</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180724</DataItem>
+		<DataItem name="Actual Price">98</DataItem>
+		<DataItem name="Target Price">130.38416</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180725</DataItem>
+		<DataItem name="Actual Price">100.9</DataItem>
+		<DataItem name="Target Price">131.2591</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180726</DataItem>
+		<DataItem name="Actual Price">100.1</DataItem>
+		<DataItem name="Target Price">131.00438</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180727</DataItem>
+		<DataItem name="Actual Price">101</DataItem>
+		<DataItem name="Target Price">130.32178</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180730</DataItem>
+		<DataItem name="Actual Price">100.4</DataItem>
+		<DataItem name="Target Price">129.21373</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180731</DataItem>
+		<DataItem name="Actual Price">100</DataItem>
+		<DataItem name="Target Price">128.50809</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180801</DataItem>
+		<DataItem name="Actual Price">97.85</DataItem>
+		<DataItem name="Target Price">129.19366</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180802</DataItem>
+		<DataItem name="Actual Price">94.45</DataItem>
+		<DataItem name="Target Price">128.58319</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180803</DataItem>
+		<DataItem name="Actual Price">94.55</DataItem>
+		<DataItem name="Target Price">127.41412</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180806</DataItem>
+		<DataItem name="Actual Price">95.35</DataItem>
+		<DataItem name="Target Price">127.79623</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180807</DataItem>
+		<DataItem name="Actual Price">97</DataItem>
+		<DataItem name="Target Price">127.97067</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180808</DataItem>
+		<DataItem name="Actual Price">97.3</DataItem>
+		<DataItem name="Target Price">128.00137</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180809</DataItem>
+		<DataItem name="Actual Price">97.8</DataItem>
+		<DataItem name="Target Price">128.08507</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180810</DataItem>
+		<DataItem name="Actual Price">94.9</DataItem>
+		<DataItem name="Target Price">127.54131</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180813</DataItem>
+		<DataItem name="Actual Price">92.35</DataItem>
+		<DataItem name="Target Price">127.18543</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180814</DataItem>
+		<DataItem name="Actual Price">85.75</DataItem>
+		<DataItem name="Target Price">127.44539</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180815</DataItem>
+		<DataItem name="Actual Price">84.1</DataItem>
+		<DataItem name="Target Price">127.05035</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180816</DataItem>
+		<DataItem name="Actual Price">83.35</DataItem>
+		<DataItem name="Target Price">127.2232</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180817</DataItem>
+		<DataItem name="Actual Price">80.85</DataItem>
+		<DataItem name="Target Price">127.50899</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180820</DataItem>
+		<DataItem name="Actual Price">80.3</DataItem>
+		<DataItem name="Target Price">128.06473</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180821</DataItem>
+		<DataItem name="Actual Price">87.2</DataItem>
+		<DataItem name="Target Price">128.19806</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180822</DataItem>
+		<DataItem name="Actual Price">88.35</DataItem>
+		<DataItem name="Target Price">110.92207</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180823</DataItem>
+		<DataItem name="Actual Price">84.65</DataItem>
+		<DataItem name="Target Price">106.50872</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180824</DataItem>
+		<DataItem name="Actual Price">82.35</DataItem>
+		<DataItem name="Target Price">105.74464</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180827</DataItem>
+		<DataItem name="Actual Price">85</DataItem>
+		<DataItem name="Target Price">105.35803</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180828</DataItem>
+		<DataItem name="Actual Price">84.85</DataItem>
+		<DataItem name="Target Price">105.51168</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180829</DataItem>
+		<DataItem name="Actual Price">85.95</DataItem>
+		<DataItem name="Target Price">105.27539</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180830</DataItem>
+		<DataItem name="Actual Price">84.3</DataItem>
+		<DataItem name="Target Price">105.06311</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180831</DataItem>
+		<DataItem name="Actual Price">87</DataItem>
+		<DataItem name="Target Price">105.15987</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180903</DataItem>
+		<DataItem name="Actual Price">86.3</DataItem>
+		<DataItem name="Target Price">105.33965</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">2018-HK</DataItem>
+		<DataItem name="Date">20180904</DataItem>
+		<DataItem name="Actual Price">88.5</DataItem>
+		<DataItem name="Target Price">105.12907</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+</Grid>

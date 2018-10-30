@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170904</DataItem>
+		<DataItem name="Actual Price">171.04</DataItem>
+		<DataItem name="Target Price">200.11314</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170905</DataItem>
+		<DataItem name="Actual Price">169.92</DataItem>
+		<DataItem name="Target Price">199.62747</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170906</DataItem>
+		<DataItem name="Actual Price">168.14</DataItem>
+		<DataItem name="Target Price">200.45357</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170907</DataItem>
+		<DataItem name="Actual Price">170.48</DataItem>
+		<DataItem name="Target Price">201.19365</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170908</DataItem>
+		<DataItem name="Actual Price">169</DataItem>
+		<DataItem name="Target Price">202.25859</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170911</DataItem>
+		<DataItem name="Actual Price">174.06</DataItem>
+		<DataItem name="Target Price">200.6239</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170912</DataItem>
+		<DataItem name="Actual Price">175.31</DataItem>
+		<DataItem name="Target Price">200.2606</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170913</DataItem>
+		<DataItem name="Actual Price">178.97</DataItem>
+		<DataItem name="Target Price">199.9238</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170914</DataItem>
+		<DataItem name="Actual Price">177.1</DataItem>
+		<DataItem name="Target Price">199.17657</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170915</DataItem>
+		<DataItem name="Actual Price">176.7</DataItem>
+		<DataItem name="Target Price">199.67473</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170918</DataItem>
+		<DataItem name="Actual Price">179.98</DataItem>
+		<DataItem name="Target Price">199.08443</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170919</DataItem>
+		<DataItem name="Actual Price">180.07</DataItem>
+		<DataItem name="Target Price">198.69621</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170920</DataItem>
+		<DataItem name="Actual Price">177.95</DataItem>
+		<DataItem name="Target Price">198.99335</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170921</DataItem>
+		<DataItem name="Actual Price">177.39</DataItem>
+		<DataItem name="Target Price">198.37141</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170922</DataItem>
+		<DataItem name="Actual Price">178.14</DataItem>
+		<DataItem name="Target Price">199.07256</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170925</DataItem>
+		<DataItem name="Actual Price">169.59</DataItem>
+		<DataItem name="Target Price">199.12233</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170926</DataItem>
+		<DataItem name="Actual Price">167.02</DataItem>
+		<DataItem name="Target Price">199.4372</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170927</DataItem>
+		<DataItem name="Actual Price">170.99</DataItem>
+		<DataItem name="Target Price">199.90685</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170928</DataItem>
+		<DataItem name="Actual Price">170.24</DataItem>
+		<DataItem name="Target Price">198.88487</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20170929</DataItem>
+		<DataItem name="Actual Price">172.71</DataItem>
+		<DataItem name="Target Price">199.9341</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171002</DataItem>
+		<DataItem name="Actual Price">173.61</DataItem>
+		<DataItem name="Target Price">200.00594</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171003</DataItem>
+		<DataItem name="Actual Price">178.56</DataItem>
+		<DataItem name="Target Price">200.00594</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171004</DataItem>
+		<DataItem name="Actual Price">178.71</DataItem>
+		<DataItem name="Target Price">200.00594</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171005</DataItem>
+		<DataItem name="Actual Price">178.89</DataItem>
+		<DataItem name="Target Price">200.12122</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171006</DataItem>
+		<DataItem name="Actual Price">179.2</DataItem>
+		<DataItem name="Target Price">200.12122</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171009</DataItem>
+		<DataItem name="Actual Price">182.09</DataItem>
+		<DataItem name="Target Price">201.03491</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171010</DataItem>
+		<DataItem name="Actual Price">183.12</DataItem>
+		<DataItem name="Target Price">203.17764</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171011</DataItem>
+		<DataItem name="Actual Price">184.69</DataItem>
+		<DataItem name="Target Price">203.15666</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171012</DataItem>
+		<DataItem name="Actual Price">180.53</DataItem>
+		<DataItem name="Target Price">203.02641</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171013</DataItem>
+		<DataItem name="Actual Price">178.45</DataItem>
+		<DataItem name="Target Price">203.20801</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171016</DataItem>
+		<DataItem name="Actual Price">179.56</DataItem>
+		<DataItem name="Target Price">203.07835</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171017</DataItem>
+		<DataItem name="Actual Price">175.32</DataItem>
+		<DataItem name="Target Price">203.34076</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171018</DataItem>
+		<DataItem name="Actual Price">179.61</DataItem>
+		<DataItem name="Target Price">203.59291</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171019</DataItem>
+		<DataItem name="Actual Price">177.93</DataItem>
+		<DataItem name="Target Price">203.46294</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171020</DataItem>
+		<DataItem name="Actual Price">177.32</DataItem>
+		<DataItem name="Target Price">203.90544</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171023</DataItem>
+		<DataItem name="Actual Price">173.13</DataItem>
+		<DataItem name="Target Price">203.34573</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171024</DataItem>
+		<DataItem name="Actual Price">173.7</DataItem>
+		<DataItem name="Target Price">203.52663</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171025</DataItem>
+		<DataItem name="Actual Price">170.22</DataItem>
+		<DataItem name="Target Price">203.2998</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171026</DataItem>
+		<DataItem name="Actual Price">170.32</DataItem>
+		<DataItem name="Target Price">203.54549</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171027</DataItem>
+		<DataItem name="Actual Price">176.15</DataItem>
+		<DataItem name="Target Price">204.17294</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171030</DataItem>
+		<DataItem name="Actual Price">181.58</DataItem>
+		<DataItem name="Target Price">204.73473</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171031</DataItem>
+		<DataItem name="Actual Price">184.89</DataItem>
+		<DataItem name="Target Price">205.38336</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171101</DataItem>
+		<DataItem name="Actual Price">186.08</DataItem>
+		<DataItem name="Target Price">205.74942</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171102</DataItem>
+		<DataItem name="Actual Price">184.81</DataItem>
+		<DataItem name="Target Price">214.935</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171103</DataItem>
+		<DataItem name="Actual Price">183.21</DataItem>
+		<DataItem name="Target Price">215.36255</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171106</DataItem>
+		<DataItem name="Actual Price">187.84</DataItem>
+		<DataItem name="Target Price">215.72046</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171107</DataItem>
+		<DataItem name="Actual Price">188.51</DataItem>
+		<DataItem name="Target Price">216.30711</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171108</DataItem>
+		<DataItem name="Actual Price">185.9</DataItem>
+		<DataItem name="Target Price">216.21915</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171109</DataItem>
+		<DataItem name="Actual Price">185.13</DataItem>
+		<DataItem name="Target Price">216.12956</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171110</DataItem>
+		<DataItem name="Actual Price">186.41</DataItem>
+		<DataItem name="Target Price">216.19815</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171113</DataItem>
+		<DataItem name="Actual Price">184.54</DataItem>
+		<DataItem name="Target Price">216.36742</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171114</DataItem>
+		<DataItem name="Actual Price">181.79</DataItem>
+		<DataItem name="Target Price">216.41162</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171115</DataItem>
+		<DataItem name="Actual Price">181.48</DataItem>
+		<DataItem name="Target Price">216.82616</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171116</DataItem>
+		<DataItem name="Actual Price">185.43</DataItem>
+		<DataItem name="Target Price">216.73912</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171117</DataItem>
+		<DataItem name="Actual Price">185.13</DataItem>
+		<DataItem name="Target Price">216.70235</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171120</DataItem>
+		<DataItem name="Actual Price">188</DataItem>
+		<DataItem name="Target Price">216.87842</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171121</DataItem>
+		<DataItem name="Actual Price">190.9</DataItem>
+		<DataItem name="Target Price">216.75093</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171122</DataItem>
+		<DataItem name="Actual Price">189.84</DataItem>
+		<DataItem name="Target Price">217.31668</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171123</DataItem>
+		<DataItem name="Actual Price">189.84</DataItem>
+		<DataItem name="Target Price">218.41545</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171124</DataItem>
+		<DataItem name="Actual Price">191.19</DataItem>
+		<DataItem name="Target Price">217.70467</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171127</DataItem>
+		<DataItem name="Actual Price">188.03</DataItem>
+		<DataItem name="Target Price">218.23575</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171128</DataItem>
+		<DataItem name="Actual Price">186.69</DataItem>
+		<DataItem name="Target Price">218.35489</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171129</DataItem>
+		<DataItem name="Actual Price">179.91</DataItem>
+		<DataItem name="Target Price">218.42049</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171130</DataItem>
+		<DataItem name="Actual Price">177.08</DataItem>
+		<DataItem name="Target Price">218.00694</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171201</DataItem>
+		<DataItem name="Actual Price">174.61</DataItem>
+		<DataItem name="Target Price">218.09216</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171204</DataItem>
+		<DataItem name="Actual Price">169.58</DataItem>
+		<DataItem name="Target Price">217.78442</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171205</DataItem>
+		<DataItem name="Actual Price">168.96</DataItem>
+		<DataItem name="Target Price">217.97545</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171206</DataItem>
+		<DataItem name="Actual Price">172.63</DataItem>
+		<DataItem name="Target Price">218.31477</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171207</DataItem>
+		<DataItem name="Actual Price">174.47</DataItem>
+		<DataItem name="Target Price">218.29169</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171208</DataItem>
+		<DataItem name="Actual Price">177.62</DataItem>
+		<DataItem name="Target Price">218.22708</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171211</DataItem>
+		<DataItem name="Actual Price">179.29</DataItem>
+		<DataItem name="Target Price">218.87357</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171212</DataItem>
+		<DataItem name="Actual Price">174.64</DataItem>
+		<DataItem name="Target Price">218.75957</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171213</DataItem>
+		<DataItem name="Actual Price">176.47</DataItem>
+		<DataItem name="Target Price">218.37762</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171214</DataItem>
+		<DataItem name="Actual Price">171.75</DataItem>
+		<DataItem name="Target Price">218.71834</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171215</DataItem>
+		<DataItem name="Actual Price">173.55</DataItem>
+		<DataItem name="Target Price">218.73817</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171218</DataItem>
+		<DataItem name="Actual Price">173.37</DataItem>
+		<DataItem name="Target Price">218.4732</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171219</DataItem>
+		<DataItem name="Actual Price">171.28</DataItem>
+		<DataItem name="Target Price">218.77411</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171220</DataItem>
+		<DataItem name="Actual Price">172.64</DataItem>
+		<DataItem name="Target Price">219.68178</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171221</DataItem>
+		<DataItem name="Actual Price">175.32</DataItem>
+		<DataItem name="Target Price">219.46356</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171222</DataItem>
+		<DataItem name="Actual Price">176.29</DataItem>
+		<DataItem name="Target Price">219.99815</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171225</DataItem>
+		<DataItem name="Actual Price">176.29</DataItem>
+		<DataItem name="Target Price">219.99841</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171226</DataItem>
+		<DataItem name="Actual Price">172.33</DataItem>
+		<DataItem name="Target Price">220.85207</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171227</DataItem>
+		<DataItem name="Actual Price">172.97</DataItem>
+		<DataItem name="Target Price">220.4142</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171228</DataItem>
+		<DataItem name="Actual Price">172.3</DataItem>
+		<DataItem name="Target Price">221.33511</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20171229</DataItem>
+		<DataItem name="Actual Price">172.43</DataItem>
+		<DataItem name="Target Price">222.02907</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180101</DataItem>
+		<DataItem name="Actual Price">172.43</DataItem>
+		<DataItem name="Target Price">222.02928</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180102</DataItem>
+		<DataItem name="Actual Price">183.65</DataItem>
+		<DataItem name="Target Price">222.00067</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180103</DataItem>
+		<DataItem name="Actual Price">184</DataItem>
+		<DataItem name="Target Price">221.6427</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180104</DataItem>
+		<DataItem name="Actual Price">185.71</DataItem>
+		<DataItem name="Target Price">221.94794</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180105</DataItem>
+		<DataItem name="Actual Price">190.7</DataItem>
+		<DataItem name="Target Price">222.6164</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180108</DataItem>
+		<DataItem name="Actual Price">190.33</DataItem>
+		<DataItem name="Target Price">222.27364</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180109</DataItem>
+		<DataItem name="Actual Price">190.8</DataItem>
+		<DataItem name="Target Price">221.38829</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180110</DataItem>
+		<DataItem name="Actual Price">189.79</DataItem>
+		<DataItem name="Target Price">221.74918</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180111</DataItem>
+		<DataItem name="Actual Price">188.75</DataItem>
+		<DataItem name="Target Price">221.87076</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180112</DataItem>
+		<DataItem name="Actual Price">187.79</DataItem>
+		<DataItem name="Target Price">223.6162</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180115</DataItem>
+		<DataItem name="Actual Price">187.79</DataItem>
+		<DataItem name="Target Price">224.45471</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180116</DataItem>
+		<DataItem name="Actual Price">182.4</DataItem>
+		<DataItem name="Target Price">224.66397</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180117</DataItem>
+		<DataItem name="Actual Price">183.83</DataItem>
+		<DataItem name="Target Price">224.63399</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180118</DataItem>
+		<DataItem name="Actual Price">184.4</DataItem>
+		<DataItem name="Target Price">224.68095</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180119</DataItem>
+		<DataItem name="Actual Price">184.05</DataItem>
+		<DataItem name="Target Price">225.23938</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180122</DataItem>
+		<DataItem name="Actual Price">184.02</DataItem>
+		<DataItem name="Target Price">225.19191</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180123</DataItem>
+		<DataItem name="Actual Price">192.28</DataItem>
+		<DataItem name="Target Price">225.24454</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180124</DataItem>
+		<DataItem name="Actual Price">195.53</DataItem>
+		<DataItem name="Target Price">226.59389</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180125</DataItem>
+		<DataItem name="Actual Price">198.33</DataItem>
+		<DataItem name="Target Price">228.23592</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180126</DataItem>
+		<DataItem name="Actual Price">205.22</DataItem>
+		<DataItem name="Target Price">229.07138</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180129</DataItem>
+		<DataItem name="Actual Price">203.01</DataItem>
+		<DataItem name="Target Price">229.05487</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180130</DataItem>
+		<DataItem name="Actual Price">199.66</DataItem>
+		<DataItem name="Target Price">228.46933</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180131</DataItem>
+		<DataItem name="Actual Price">204.29</DataItem>
+		<DataItem name="Target Price">230.34683</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180201</DataItem>
+		<DataItem name="Actual Price">192.22</DataItem>
+		<DataItem name="Target Price">229.59984</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180202</DataItem>
+		<DataItem name="Actual Price">187.31</DataItem>
+		<DataItem name="Target Price">230.38568</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180205</DataItem>
+		<DataItem name="Actual Price">180.53</DataItem>
+		<DataItem name="Target Price">229.63347</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180206</DataItem>
+		<DataItem name="Actual Price">185.17</DataItem>
+		<DataItem name="Target Price">229.62413</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180207</DataItem>
+		<DataItem name="Actual Price">180.3</DataItem>
+		<DataItem name="Target Price">230.26976</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180208</DataItem>
+		<DataItem name="Actual Price">173.7</DataItem>
+		<DataItem name="Target Price">227.89082</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180209</DataItem>
+		<DataItem name="Actual Price">176.67</DataItem>
+		<DataItem name="Target Price">228.83138</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180212</DataItem>
+		<DataItem name="Actual Price">177.44</DataItem>
+		<DataItem name="Target Price">227.789</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180213</DataItem>
+		<DataItem name="Actual Price">179.25</DataItem>
+		<DataItem name="Target Price">227.2835</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180214</DataItem>
+		<DataItem name="Actual Price">186.76</DataItem>
+		<DataItem name="Target Price">227.25484</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180215</DataItem>
+		<DataItem name="Actual Price">187.45</DataItem>
+		<DataItem name="Target Price">227.49489</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180216</DataItem>
+		<DataItem name="Actual Price">183.68</DataItem>
+		<DataItem name="Target Price">227.49489</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180219</DataItem>
+		<DataItem name="Actual Price">183.68</DataItem>
+		<DataItem name="Target Price">227.54637</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180220</DataItem>
+		<DataItem name="Actual Price">187.19</DataItem>
+		<DataItem name="Target Price">227.54637</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180221</DataItem>
+		<DataItem name="Actual Price">188.82</DataItem>
+		<DataItem name="Target Price">227.54637</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180222</DataItem>
+		<DataItem name="Actual Price">188.75</DataItem>
+		<DataItem name="Target Price">226.95966</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180223</DataItem>
+		<DataItem name="Actual Price">193.29</DataItem>
+		<DataItem name="Target Price">227.79413</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180226</DataItem>
+		<DataItem name="Actual Price">194.19</DataItem>
+		<DataItem name="Target Price">228.86922</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180227</DataItem>
+		<DataItem name="Actual Price">188.26</DataItem>
+		<DataItem name="Target Price">228.95047</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180228</DataItem>
+		<DataItem name="Actual Price">186.14</DataItem>
+		<DataItem name="Target Price">228.07944</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180301</DataItem>
+		<DataItem name="Actual Price">181.99</DataItem>
+		<DataItem name="Target Price">227.68388</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180302</DataItem>
+		<DataItem name="Actual Price">179.76</DataItem>
+		<DataItem name="Target Price">227.55475</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180305</DataItem>
+		<DataItem name="Actual Price">181.6</DataItem>
+		<DataItem name="Target Price">227.81857</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180306</DataItem>
+		<DataItem name="Actual Price">187.37</DataItem>
+		<DataItem name="Target Price">227.83653</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180307</DataItem>
+		<DataItem name="Actual Price">189.05</DataItem>
+		<DataItem name="Target Price">228.46107</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180308</DataItem>
+		<DataItem name="Actual Price">187.18</DataItem>
+		<DataItem name="Target Price">228.12553</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180309</DataItem>
+		<DataItem name="Actual Price">190.55</DataItem>
+		<DataItem name="Target Price">227.94916</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180312</DataItem>
+		<DataItem name="Actual Price">192.74</DataItem>
+		<DataItem name="Target Price">228.45796</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180313</DataItem>
+		<DataItem name="Actual Price">188.41</DataItem>
+		<DataItem name="Target Price">228.08739</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180314</DataItem>
+		<DataItem name="Actual Price">192.56</DataItem>
+		<DataItem name="Target Price">228.56113</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180315</DataItem>
+		<DataItem name="Actual Price">199.06</DataItem>
+		<DataItem name="Target Price">228.34998</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180316</DataItem>
+		<DataItem name="Actual Price">200.28</DataItem>
+		<DataItem name="Target Price">228.2524</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180319</DataItem>
+		<DataItem name="Actual Price">194.53</DataItem>
+		<DataItem name="Target Price">227.97485</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180320</DataItem>
+		<DataItem name="Actual Price">198.95</DataItem>
+		<DataItem name="Target Price">228.0541</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180321</DataItem>
+		<DataItem name="Actual Price">195.3</DataItem>
+		<DataItem name="Target Price">228.01447</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180322</DataItem>
+		<DataItem name="Actual Price">184.65</DataItem>
+		<DataItem name="Target Price">228.36073</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180323</DataItem>
+		<DataItem name="Actual Price">181.2</DataItem>
+		<DataItem name="Target Price">228.29393</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180326</DataItem>
+		<DataItem name="Actual Price">190.5</DataItem>
+		<DataItem name="Target Price">229.63748</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180327</DataItem>
+		<DataItem name="Actual Price">181.89</DataItem>
+		<DataItem name="Target Price">230.13531</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180328</DataItem>
+		<DataItem name="Actual Price">178.91</DataItem>
+		<DataItem name="Target Price">229.5458</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180329</DataItem>
+		<DataItem name="Actual Price">183.54</DataItem>
+		<DataItem name="Target Price">228.9166</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180330</DataItem>
+		<DataItem name="Actual Price">183.54</DataItem>
+		<DataItem name="Target Price">228.91647</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180402</DataItem>
+		<DataItem name="Actual Price">177.61</DataItem>
+		<DataItem name="Target Price">229.30495</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180403</DataItem>
+		<DataItem name="Actual Price">174.67</DataItem>
+		<DataItem name="Target Price">228.38785</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180404</DataItem>
+		<DataItem name="Actual Price">172.07</DataItem>
+		<DataItem name="Target Price">227.81628</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180405</DataItem>
+		<DataItem name="Actual Price">172.57</DataItem>
+		<DataItem name="Target Price">227.49144</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180406</DataItem>
+		<DataItem name="Actual Price">167.52</DataItem>
+		<DataItem name="Target Price">227.19563</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180409</DataItem>
+		<DataItem name="Actual Price">169.87</DataItem>
+		<DataItem name="Target Price">226.81075</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180410</DataItem>
+		<DataItem name="Actual Price">177.1</DataItem>
+		<DataItem name="Target Price">226.7368</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180411</DataItem>
+		<DataItem name="Actual Price">175.36</DataItem>
+		<DataItem name="Target Price">227.01543</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180412</DataItem>
+		<DataItem name="Actual Price">175.92</DataItem>
+		<DataItem name="Target Price">227.15718</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180413</DataItem>
+		<DataItem name="Actual Price">172.04</DataItem>
+		<DataItem name="Target Price">227.16107</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180416</DataItem>
+		<DataItem name="Actual Price">174.7</DataItem>
+		<DataItem name="Target Price">227.08936</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180417</DataItem>
+		<DataItem name="Actual Price">178.7</DataItem>
+		<DataItem name="Target Price">227.26302</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180418</DataItem>
+		<DataItem name="Actual Price">182.68</DataItem>
+		<DataItem name="Target Price">226.9762</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180419</DataItem>
+		<DataItem name="Actual Price">181.39</DataItem>
+		<DataItem name="Target Price">227.0423</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180420</DataItem>
+		<DataItem name="Actual Price">179.11</DataItem>
+		<DataItem name="Target Price">226.45024</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180423</DataItem>
+		<DataItem name="Actual Price">175.57</DataItem>
+		<DataItem name="Target Price">225.93405</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180424</DataItem>
+		<DataItem name="Actual Price">173.09</DataItem>
+		<DataItem name="Target Price">225.74364</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180425</DataItem>
+		<DataItem name="Actual Price">170.22</DataItem>
+		<DataItem name="Target Price">225.13109</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180426</DataItem>
+		<DataItem name="Actual Price">173.9</DataItem>
+		<DataItem name="Target Price">224.77557</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180427</DataItem>
+		<DataItem name="Actual Price">177.16</DataItem>
+		<DataItem name="Target Price">224.37529</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180430</DataItem>
+		<DataItem name="Actual Price">178.54</DataItem>
+		<DataItem name="Target Price">224.5084</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180501</DataItem>
+		<DataItem name="Actual Price">179.5</DataItem>
+		<DataItem name="Target Price">224.5071</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180502</DataItem>
+		<DataItem name="Actual Price">181.45</DataItem>
+		<DataItem name="Target Price">223.96349</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180503</DataItem>
+		<DataItem name="Actual Price">182.45</DataItem>
+		<DataItem name="Target Price">224.27856</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180504</DataItem>
+		<DataItem name="Actual Price">188.89</DataItem>
+		<DataItem name="Target Price">231.6085</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180507</DataItem>
+		<DataItem name="Actual Price">195.35</DataItem>
+		<DataItem name="Target Price">231.66843</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180508</DataItem>
+		<DataItem name="Actual Price">196.31</DataItem>
+		<DataItem name="Target Price">232.20486</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180509</DataItem>
+		<DataItem name="Actual Price">195.43</DataItem>
+		<DataItem name="Target Price">231.82988</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180510</DataItem>
+		<DataItem name="Actual Price">195.96</DataItem>
+		<DataItem name="Target Price">232.3751</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180511</DataItem>
+		<DataItem name="Actual Price">194.36</DataItem>
+		<DataItem name="Target Price">233.41382</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180514</DataItem>
+		<DataItem name="Actual Price">198.64</DataItem>
+		<DataItem name="Target Price">233.4029</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180515</DataItem>
+		<DataItem name="Actual Price">196.61</DataItem>
+		<DataItem name="Target Price">232.75275</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180516</DataItem>
+		<DataItem name="Actual Price">198.11</DataItem>
+		<DataItem name="Target Price">232.24155</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180517</DataItem>
+		<DataItem name="Actual Price">196.02</DataItem>
+		<DataItem name="Target Price">233.40685</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180518</DataItem>
+		<DataItem name="Actual Price">195</DataItem>
+		<DataItem name="Target Price">233.11395</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180521</DataItem>
+		<DataItem name="Actual Price">197.64</DataItem>
+		<DataItem name="Target Price">232.61406</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180522</DataItem>
+		<DataItem name="Actual Price">195.87</DataItem>
+		<DataItem name="Target Price">233.29692</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180523</DataItem>
+		<DataItem name="Actual Price">196.8</DataItem>
+		<DataItem name="Target Price">234.44441</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180524</DataItem>
+		<DataItem name="Actual Price">197.37</DataItem>
+		<DataItem name="Target Price">234.48393</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180525</DataItem>
+		<DataItem name="Actual Price">199.2</DataItem>
+		<DataItem name="Target Price">234.32092</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180528</DataItem>
+		<DataItem name="Actual Price">199.2</DataItem>
+		<DataItem name="Target Price">234.15602</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180529</DataItem>
+		<DataItem name="Actual Price">198</DataItem>
+		<DataItem name="Target Price">233.34996</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180530</DataItem>
+		<DataItem name="Actual Price">197.98</DataItem>
+		<DataItem name="Target Price">233.1638</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180531</DataItem>
+		<DataItem name="Actual Price">198.01</DataItem>
+		<DataItem name="Target Price">234.0271</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180601</DataItem>
+		<DataItem name="Actual Price">204.34</DataItem>
+		<DataItem name="Target Price">233.45087</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180604</DataItem>
+		<DataItem name="Actual Price">208.95</DataItem>
+		<DataItem name="Target Price">233.61469</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180605</DataItem>
+		<DataItem name="Actual Price">208.37</DataItem>
+		<DataItem name="Target Price">234.02596</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180606</DataItem>
+		<DataItem name="Actual Price">208.3</DataItem>
+		<DataItem name="Target Price">236.05914</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180607</DataItem>
+		<DataItem name="Actual Price">203.62</DataItem>
+		<DataItem name="Target Price">236.10344</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180608</DataItem>
+		<DataItem name="Actual Price">205.07</DataItem>
+		<DataItem name="Target Price">235.53586</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180611</DataItem>
+		<DataItem name="Actual Price">205.7</DataItem>
+		<DataItem name="Target Price">235.87006</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180612</DataItem>
+		<DataItem name="Actual Price">209.08</DataItem>
+		<DataItem name="Target Price">237.09459</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180613</DataItem>
+		<DataItem name="Actual Price">206.62</DataItem>
+		<DataItem name="Target Price">237.42647</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180614</DataItem>
+		<DataItem name="Actual Price">210.86</DataItem>
+		<DataItem name="Target Price">237.90935</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180615</DataItem>
+		<DataItem name="Actual Price">208</DataItem>
+		<DataItem name="Target Price">237.19992</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180618</DataItem>
+		<DataItem name="Actual Price">208.57</DataItem>
+		<DataItem name="Target Price">237.19992</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180619</DataItem>
+		<DataItem name="Actual Price">204.43</DataItem>
+		<DataItem name="Target Price">235.20369</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180620</DataItem>
+		<DataItem name="Actual Price">206.23</DataItem>
+		<DataItem name="Target Price">235.31638</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180621</DataItem>
+		<DataItem name="Actual Price">202.21</DataItem>
+		<DataItem name="Target Price">234.35657</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180622</DataItem>
+		<DataItem name="Actual Price">202.01</DataItem>
+		<DataItem name="Target Price">234.4215</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180625</DataItem>
+		<DataItem name="Actual Price">191.25</DataItem>
+		<DataItem name="Target Price">233.96773</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180626</DataItem>
+		<DataItem name="Actual Price">191.42</DataItem>
+		<DataItem name="Target Price">232.95569</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180627</DataItem>
+		<DataItem name="Actual Price">185.02</DataItem>
+		<DataItem name="Target Price">231.60283</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180628</DataItem>
+		<DataItem name="Actual Price">188.38</DataItem>
+		<DataItem name="Target Price">230.46353</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180629</DataItem>
+		<DataItem name="Actual Price">185.53</DataItem>
+		<DataItem name="Target Price">230.9049</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180702</DataItem>
+		<DataItem name="Actual Price">186.36</DataItem>
+		<DataItem name="Target Price">231.03319</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180703</DataItem>
+		<DataItem name="Actual Price">184.75</DataItem>
+		<DataItem name="Target Price">231.646</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180704</DataItem>
+		<DataItem name="Actual Price">184.75</DataItem>
+		<DataItem name="Target Price">233.6714</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180705</DataItem>
+		<DataItem name="Actual Price">186.88</DataItem>
+		<DataItem name="Target Price">233.7785</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180706</DataItem>
+		<DataItem name="Actual Price">192.27</DataItem>
+		<DataItem name="Target Price">233.76115</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180709</DataItem>
+		<DataItem name="Actual Price">192.75</DataItem>
+		<DataItem name="Target Price">234.82155</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180710</DataItem>
+		<DataItem name="Actual Price">192.55</DataItem>
+		<DataItem name="Target Price">234.63716</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180711</DataItem>
+		<DataItem name="Actual Price">187.42</DataItem>
+		<DataItem name="Target Price">233.06657</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180712</DataItem>
+		<DataItem name="Actual Price">190.17</DataItem>
+		<DataItem name="Target Price">233.0491</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180713</DataItem>
+		<DataItem name="Actual Price">190.04</DataItem>
+		<DataItem name="Target Price">232.22705</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180716</DataItem>
+		<DataItem name="Actual Price">190.35</DataItem>
+		<DataItem name="Target Price">232.55048</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180717</DataItem>
+		<DataItem name="Actual Price">192.66</DataItem>
+		<DataItem name="Target Price">233.25659</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180718</DataItem>
+		<DataItem name="Actual Price">190.79</DataItem>
+		<DataItem name="Target Price">232.04417</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180719</DataItem>
+		<DataItem name="Actual Price">187.34</DataItem>
+		<DataItem name="Target Price">231.00406</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180720</DataItem>
+		<DataItem name="Actual Price">187.25</DataItem>
+		<DataItem name="Target Price">231.05154</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180723</DataItem>
+		<DataItem name="Actual Price">187.04</DataItem>
+		<DataItem name="Target Price">231.41388</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180724</DataItem>
+		<DataItem name="Actual Price">189</DataItem>
+		<DataItem name="Target Price">230.33058</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180725</DataItem>
+		<DataItem name="Actual Price">197.98</DataItem>
+		<DataItem name="Target Price">231.54362</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180726</DataItem>
+		<DataItem name="Actual Price">194.18</DataItem>
+		<DataItem name="Target Price">231.33383</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180727</DataItem>
+		<DataItem name="Actual Price">189.42</DataItem>
+		<DataItem name="Target Price">230.43137</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180730</DataItem>
+		<DataItem name="Actual Price">184.82</DataItem>
+		<DataItem name="Target Price">230.22206</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180731</DataItem>
+		<DataItem name="Actual Price">187.23</DataItem>
+		<DataItem name="Target Price">230.58142</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180801</DataItem>
+		<DataItem name="Actual Price">185.27</DataItem>
+		<DataItem name="Target Price">231.65034</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180802</DataItem>
+		<DataItem name="Actual Price">182.6</DataItem>
+		<DataItem name="Target Price">230.53076</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180803</DataItem>
+		<DataItem name="Actual Price">180.84</DataItem>
+		<DataItem name="Target Price">229.77498</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180806</DataItem>
+		<DataItem name="Actual Price">178.62</DataItem>
+		<DataItem name="Target Price">232.304</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180807</DataItem>
+		<DataItem name="Actual Price">179.92</DataItem>
+		<DataItem name="Target Price">232.82344</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180808</DataItem>
+		<DataItem name="Actual Price">177.52</DataItem>
+		<DataItem name="Target Price">232.79572</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180809</DataItem>
+		<DataItem name="Actual Price">177.19</DataItem>
+		<DataItem name="Target Price">233.05199</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180810</DataItem>
+		<DataItem name="Actual Price">180.01</DataItem>
+		<DataItem name="Target Price">232.44356</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180813</DataItem>
+		<DataItem name="Actual Price">177.68</DataItem>
+		<DataItem name="Target Price">234.5312</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180814</DataItem>
+		<DataItem name="Actual Price">172.53</DataItem>
+		<DataItem name="Target Price">234.54463</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180815</DataItem>
+		<DataItem name="Actual Price">169.83</DataItem>
+		<DataItem name="Target Price">234.73097</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180816</DataItem>
+		<DataItem name="Actual Price">171.99</DataItem>
+		<DataItem name="Target Price">235.02654</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180817</DataItem>
+		<DataItem name="Actual Price">172.78</DataItem>
+		<DataItem name="Target Price">234.99666</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180820</DataItem>
+		<DataItem name="Actual Price">176.29</DataItem>
+		<DataItem name="Target Price">236.03056</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180821</DataItem>
+		<DataItem name="Actual Price">177.92</DataItem>
+		<DataItem name="Target Price">236.28233</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180822</DataItem>
+		<DataItem name="Actual Price">177.85</DataItem>
+		<DataItem name="Target Price">236.22363</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180823</DataItem>
+		<DataItem name="Actual Price">172.23</DataItem>
+		<DataItem name="Target Price">233.46585</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180824</DataItem>
+		<DataItem name="Actual Price">174.23</DataItem>
+		<DataItem name="Target Price">233.3037</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180827</DataItem>
+		<DataItem name="Actual Price">180.65</DataItem>
+		<DataItem name="Target Price">235.12483</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180828</DataItem>
+		<DataItem name="Actual Price">178.19</DataItem>
+		<DataItem name="Target Price">235.42056</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180829</DataItem>
+		<DataItem name="Actual Price">178.5</DataItem>
+		<DataItem name="Target Price">234.91365</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180830</DataItem>
+		<DataItem name="Actual Price">174.6</DataItem>
+		<DataItem name="Target Price">232.76959</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180831</DataItem>
+		<DataItem name="Actual Price">175.01</DataItem>
+		<DataItem name="Target Price">232.9623</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180903</DataItem>
+		<DataItem name="Actual Price">175.01</DataItem>
+		<DataItem name="Target Price">233.31175</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">BABA-US</DataItem>
+		<DataItem name="Date">20180904</DataItem>
+		<DataItem name="Actual Price">170.44</DataItem>
+		<DataItem name="Target Price">232.84386</DataItem>
+		<DataItem name="Currency">USD</DataItem>
+	</DataRow>
+</Grid>

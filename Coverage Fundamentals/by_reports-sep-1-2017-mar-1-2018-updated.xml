@@ -1,0 +1,1381 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xmloutfile>
+<header>
+<TYPE>XLFT</TYPE>
+<DN>C04460</DN>
+<KW>WRITE_LS_DOC</KW>
+<FLG>API_MY_ALLPUB_Sandbox.fld,01/09/2017,01/03/2018</FLG>
+<MNY>,0</MNY>
+<ROWNB>87</ROWNB>
+<COLNB>14</COLNB>
+<MASK>12</MASK>
+<MDL>WRITE_LS_DOC</MDL>
+<LANG>CODE_GB</LANG>
+<CUTVALUE>0</CUTVALUE>
+<RIGHTSERIESNB>0</RIGHTSERIESNB></header>
+<table>
+<row>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Company Name</column>
+<column>Target Price</column>
+<column>Rating</column>
+<column>Is Top Idea</column>
+<column>Synopsis</column>
+<column>Subtitle 1</column>
+<column>Paragraph 1</column>
+<column>Subtitle 2</column>
+<column>Paragraph 2</column>
+<column>Subtitle 3</column>
+<column>Paragraph 3</column>
+<column>Subtitle 4</column>
+<column>Paragraph 4</column>
+<column></column></row>
+<row>
+<column>AAC Technologies</column>
+<column>180.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Investors’ expectations for AAC have become reasonable after the recent supply chain updates, and guidance from TSMC and Apple should have set the near-term bottom. Sell-side earnings revisions may still have minor impact, but risk reward profile for its shares has become reasonable at the current level. Upgrade to BUY.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Alibaba Group</column>
+<column>185.000000</column>
+<column>Hold</column>
+<column>Yes</column>
+<column>We have a contrarian HOLD on China’s dominant ecommerce platform as we believe slowing core revenue growth and fast eroding margins will make the market more cautious.  BABA’s FY3Q18 (Dec qtr) displayed a 24% point deceleration in customer management revenue growth compared to the avg. growth of the prior two qtrs as click volume growth slowed, and the core commerce EBITA margin sank to 53% from 57% in the Sept quarter. Reiterate HOLD w/minor est. revisions (1-2%), w/DCF TP unchanged at USD185.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Alliance Bank</column>
+<column>4.700000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Alliance Bank’s investments in new products and its restructuring should start to bear fruit from FY19 onwards, while NIMs are expected to expand further with the recent OPR hike in Jan 2018. We upgrade FY19/20E earnings by 4%/2% and roll forward valuations to CY19 on a higher PBV peg of 1.2x, supported by a higher ROE of 10.1% (1.1x previously; ROE: 9.7%). Our TP is correspondingly raised from MYR4.00 to MYR4.70 and we upgrade to BUY from HOLD.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Allianz Malaysia</column>
+<column>16.300000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>While FY17 results were above our expectations, our forecasts for FY18/19 are maintained amid a still difficult operating environment for the general insurance division. Positively, however, Allianz Life continues to generate robust growth to support overall group earnings and valuations. Our SOP-derived TP of MYR16.30 is unchanged and we maintain our BUY call on Allianz.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>AMMB Holdings</column>
+<column>4.600000</column>
+<column>Hold</column>
+<column></column>
+<column>AMMB’s 9MFY18 earnings disappointed mainly on a net credit charge position. Our FY18-20E earnings are cut by 10% per annum and we estimate an ROE of 7.0%/7.8% for FY18/19 respectively (8.3%/8.7% previously). We roll forward valuations to CY19 on an unchanged PBV peg of 0.8x and lower our TP to MYR4.60 from MYR4.80. HOLD maintained.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>ANTA Sports Products</column>
+<column>44.000000</column>
+<column>Buy</column>
+<column></column>
+<column>Anta delivered solid FY17 results, but investors are concerned about the margin outlook given 2H17 OPM was weaker than market expectations. We agree the FY18 margin trend may be unexciting. However, FY18 sales guidance is upbeat. We expect earnings will be driven by solid revenue growth on the back of its multi-brand strategy, i.e. the introduction of new brands into China and restructuring/consolidating the retail network to create synergies. Reiterate BUY with unchanged TP of HKD44.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>ASM Pacific Technology</column>
+<column>155.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Reiterate BUY with TP of HKD155 (20x 2018F P/E). Advanced packaging and CIS will continue to lead top line growth and margin expansion, while outlook for conventional backend, LED, and SMT is trending north. Booking and BB ratio should also have bottomed in 4Q17. 4Q17 results will be out 1 Mar. BUY. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Axiata Group</column>
+<column>5.500362</column>
+<column>Hold</column>
+<column></column>
+<column>Axiata’s FY17 results were below expectations due to higher-than-expected depreciation and taxes. We view currency headwinds as a concern for Axiata in 2018, although the absence of Idea’s losses (post-merger) should help alleviate the P&#38;L impact. Maintain HOLD with an unchanged MYR5.50 TP. We see risk-reward as being merely balanced.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Beijing Tong Ren Tang CM</column>
+<column>14.740000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Reiterate BUY wiith high conviction on BJTRT’s earnings growth sustainability, supported by its 340-year heritage brand and its pricing power due to its unique access to the scarce supply of natural musk. Near-term, the recovery in retail sales in HK and China, and CNY strength could be catalysts. Longer-term, aging and increasing health consciousness support growth of the traditional Chinese medicine (TCM) market. We raised TP 4% due to roll forward to FY18F with unchanged 22x PER (hist. avg.).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Bermaz Auto Berhad</column>
+<column>3.250000</column>
+<column>Buy</column>
+<column></column>
+<column>BAuto is our first choice for a cyclical recovery in the sector driven by both vehicle sales growth and lower imported component costs from a stronger MYR. Persistent strength in MYR against JPY (+6% YoY in 2017) prompts our adjustments to FY19/20 earnings forecasts by +4% p.a., as we account for a lower JPY100/MYR rate of avg. 3.60 (from 3.80). We reiterate BUY on BAuto with a higher TP of MYR3.25 (+31%) as we roll forward our valuations to CY19 on unchanged 14.5x EPS (mean).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>BIMB Holdings</column>
+<column>5.000000</column>
+<column>Buy</column>
+<column></column>
+<column>BIMB’s FY17 results were within expectation. Our FY18/19 earnings forecasts are raised a marginal 1% to factor in lower credit costs for Bank Islam and we maintain our BUY call on the stock. Our SOP-based TP is lowered a marginal 10sen to MYR5.00 on rolling forward and updating our valuation parameters. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Boustead Plantations</column>
+<column>1.800000</column>
+<column>Hold</column>
+<column></column>
+<column>FY17 core earnings exceeded expectations on better-than-expected output recovery. For FY18, we expect some core earnings pressure mainly on expectation of lower CPO prices. Following the results, we tweak our RNAV-TP to MYR1.80 (+1%) but maintain our HOLD call given limited upside. A fourth interim DPS of 4sen (ex-date: 12 Mar) was announced to sustain interest, bringing FY17 total DPS to 19.5sen (2016: 14.5sen). Key catalyst for BPLANT: More land disposals to sustain yields.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Bursa Malaysia</column>
+<column>10.600000</column>
+<column>Hold</column>
+<column></column>
+<column>Bursa’s FY17 net profit and dividend were in-line. Our FY18/19 net profit forecasts are marginally tweaked post results housekeeping; we also introduce FY20 forecast. Management expects the equity market to remain resilient and the new stamp duty exemption for exchange-traded funds and structured warrants to enhance trading and vibrancy. Our TP is raised to MYR10.60 (+30sen) as we roll forward valuation to 2018, while continuing to peg on a 25x PER, in-line with the average of peers.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Cahya Mata Sarawak</column>
+<column>4.900000</column>
+<column>Buy</column>
+<column></column>
+<column>FY17 core earnings of MYR263m came in well above ours/consensus forecasts. The outperformance against our forecast was largely due to stronger contribution from OMS. We lift FY18E/FY19E earnings upwards by 15%/16% to incorporate the stronger earnings from OMS. Our SOP-TP is raised to MYR4.90 (+9%) as we roll forward valuation base year and incorporate the value of OMS earnings into our SOP-based calculation.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>CGN Power</column>
+<column>2.703296</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>CGN announced  FY17 total power generation was 137.7b kWh, up 19.2% YoY, largely in line with our expectation.We forecast FY18 total generation will increase 9% YoY, supported by the favourable guarantee policy and new capacity. We think the recent announcement about the progress of the Taishan units could remove near-term uncertainty, while overseas orders could be upside catalysts. Reiterate BUY with 3.5% lower DCF-based TP to HKD2.70 (WACC:6.6%;LTG:2%) after factoring in Taishan Unit 2 delay.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Biologic Products</column>
+<column>102.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Maintain BUY but reduced our SOTP-based TP to USD102 after analysing the financial data of Tianxinfu provided by PW Medtech (1358 HK, NR). Our new TP of USD102 comprises USD92 per share for CBPO’s existing business (USD3.1b), USD9 per share for TXF (USD301m), plus a synergy of USD1 per share (USD29m) from cost savings to be realized at TXF. Net-net, CBPO loses USD28 per share through dilution (USD21), minority interest (USD4) and lower EBIT margins (USD3) and gains USD10 in TXF and synergy.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Datang Renewable</column>
+<column>1.249887</column>
+<column>Buy</column>
+<column></column>
+<column>Initiate at BUY with DCF-based target price of HKD1.25, implying 24% upside. With curtailment improving, which will in turn boost utilization hours, we believe DTR offers the greatest room for earnings growth due to low-base effect. We expect its capacity in Inner Mongolia (33% of its total) will benefit from the new UHV lines. We treat DTR as a long-term BUY with high growth potential and cheap valuation at 6.7x FY18E P/E. We expect the market to turn more positive as utilization rebounds.  </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Longyuan Power</column>
+<column>7.100013</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>China Longyuan Power (LY) reported 9M17 attributable net profit of CNY2,809m (PRC GAAP), up 6.3% YoY, in line with our expectation. Net profit growth was mainly due to a 14% increase in 9M17 wind power generation. We find the shares undervalued and expect a recovery in wind utilization hours to benefit LY, the most established wind farm player. Accordingly, reiterate BUY and maintain DCF-based TP of HKD7.10 (WACC: 8.9%; LT growth: 3.0%). </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Mengniu Dairy</column>
+<column>29.900000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Maintain BUY. We spoke with management who confirmed recent public comments that sales momentum remains solid. We raised FY18-19F EPS by 5% each due to a better sales outlook, but cut FY17F NPAT by 17% to factor in expenses related to share options, FX losses and a higher effective tax rate. Our TP is also raised 15% and pegged to a target 27x FY18F PER (in line with peer Inner Mongolia Yili [600887CH, Not-Rated]), up from 25x previously (1SD above hist. avg) due to the improving EPS outlook.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Mobile</column>
+<column>105.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>We remain positive on the sector and China Mobile's attractive value proposition, although we don't see any catalyst in the near term.  3Q17 results reaffirmed our view that profitability is gradually improving:  EBITDA growth of 7% YoY was an improvement from 3-6% in 1H17 (2% above MKE). We are constructive on CM’s improving profitability despite aggressive pricing by competitors, elimination of domestic long distance roaming (DLDR), and fixed-line market expansion. CT remains our top pick.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Resources Beer</column>
+<column>25.500000</column>
+<column>Sell</column>
+<column>Yes</column>
+<column>CRB has rallied since Dec 17 due to anticipation of a potential price hike. However, it just clarified that there will be only moderate price hikes on some products in certain regions. We believe higher ASP will likely be partly offset by higher A&#38;P and cost. Overall, we lift FY18-19F EBITDA by 7-14%. We roll forward our TP basis to 2018F, and raise our multiple from 11x to 15x EV/EBITDA; at the higher range of the MNCs’ 5-year average, given sector’s re-rating. Lift TP by 59% but stay SELL. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Telecom Corporation</column>
+<column>4.900000</column>
+<column>Buy</column>
+<column></column>
+<column>CT changed the depreciable life of its IPTV, CDN and corp. information system equip. from 10 to 5 yrs. The est.'d increase in D&#38;A exp. for FY17F is CNY4B, as all assets with &#62;5 yrs useful life will receive a one-off treatment (no impact on previous financials). While we expect D&#38;A to rise in future yrs, we believe it will be at a smaller magnitude as incremental expenses will only come from assets added within the past 5 yrs. We lowered FY17-19F net profit 4-16%, but EBITDA/TP/DPS are unchanged.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>China Unicom</column>
+<column>12.000000</column>
+<column>Hold</column>
+<column></column>
+<column>China Unicom extended its profitability recovery trend into 3Q17, but the magnitude of the improvement fell shy of our expectation. With We believe its profit rebound story is well known, but execution risk needs to be considered.  Tower monetization could provide some upside but we believe current price level reflects majority of its tower value.  Our top pick, China Telecom, offers greater upside, in our view.  We revised down TP by 4% to HKD12. HOLD.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>CIMB Group Holdings</column>
+<column>7.700000</column>
+<column>Hold</column>
+<column>Yes</column>
+<column>The outlook for CIMB is brighter into FY18 amid stronger loan growth and lower credit costs, though this is expected to be dampened somewhat by expected NIM compression. Presently, however, much of the positives are factored in, in our view. Our FY18E ROE of 10.0% trails management’s target of 10.5%. We maintain a HOLD call with an unchanged TP of MYR7.70 (FY19 PBV peg of 1.4x, ROE 10.5%).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>DiGi.com</column>
+<column>4.799844</column>
+<column>Hold</column>
+<column></column>
+<column>FY17 results in line with our/consensus expectations, with the prepaid segment encouragingly delivering sequential growth in 4Q17. In our view, management’s seemingly conservative 2018 revenue guidance is likely just to avoid another year of not meeting initial guidance (following a difficult 2017). Maintain HOLD with an unchanged MYR4.80 TP. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Eversendai Corp</column>
+<column>1.140000</column>
+<column>Hold</column>
+<column></column>
+<column>3Q17 core net profit was within ours but above consensus forecasts. YoY growth was attributed to stronger contribution from the Middle East and smaller losses at the Oil &#38; Gas division. Despite the recovery in earnings, its balance sheet remains a concern given its high gearing and receivables. Our earnings forecasts are unchanged pending an update with management. HOLD call and TP are intact at MYR1.14 pegged to unchanged 12x FY18E PER (-0.5 SD).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Galaxy Entertainment Group</column>
+<column>54.400000</column>
+<column>Hold</column>
+<column></column>
+<column>In light of the strong share price performance and 4% downside to our TP, we see the shares as fairly valued. 3Q17 results were a tad ahead of our expectations resulting in some positive revisions to our estimates but not enough to justify a BUY. Our TP is raised 1% to HKD54.40. Galaxy continues to defend its market share but we are uncertain if this will last. We recommend investors take a breather and await indicators pointing to more material earnings upside. Our Top Pick now is Sands China.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Gamuda</column>
+<column>5.600000</column>
+<column>Buy</column>
+<column></column>
+<column>1QFY18 net earnings were within ours/consensus expectations. YoY growth was supported by i) acceleration in KVMRT 2 works and ii) stronger property sales. Gamuda remains a potential beneficiary of contracts from the East Coast Rail Link (ECRL), KVMRT 3, KL-SG HSR and Pan Borneo Sabah Highway (PBSaH). Recent share price weakness presents a buying opportunity. We keep our RNAV-based TP of MYR5.60.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Gas Malaysia</column>
+<column>2.999534</column>
+<column>Hold</column>
+<column></column>
+<column>GMB’s results were ahead of expectations, with the beat seemingly coming from higher-than-expected volumes, spreads and customer contribution. Dividend declared implies a DPR of just 53%, we thus expect a final DPS to be declared in the coming weeks to achieve a 100% DPR (just like 4Q16). Maintain HOLD with an unchanged MYR3.00 TP. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Geely Automobile</column>
+<column>36.000000</column>
+<column>Buy</column>
+<column></column>
+<column>Reiterate BUY and TP of HKD36. We attended Geely’s Lynk &#38; Co launch ceremony and the investor meeting in Ningbo last week. Dealers told us demand for the 01 model remains strong and each has received 200-400 orders so far. The CEO stressed that capacity is being ramped up to meet the rising orders. Given the scale benefits and cost sharing with Volvo, Geely remains confident profitability will be higher than for the existing Geely models.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Genting Plantations</column>
+<column>12.100000</column>
+<column>Buy</column>
+<column></column>
+<column>FY17’s dividends surprised but not profits. GENP declared a special DPS of 11sen (payable 9 Mar) and a final DPS of 9.5sen, bringing total FY17 DPS to 26sen (FY16: 21sen). Upcoming KL-SG high speed rail land development at Batu Pahat and its 11% 3-yr 2017-20E FFB output growth are key catalysts. We tactically upgrade GENP to a BUY, given 23% upside to our new TP of MYR12.10 (previously MYR11.16) as we roll forward valuation to 2018, pegging on an unchanged 26x PER (its 5-year mean).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Globetronics Technology</column>
+<column>6.300000</column>
+<column>Hold</column>
+<column></column>
+<column>GTB’s FY17 core net profit was strong at MYR50m (+94% YoY), lifted by strong sensor demand – above ours but within consensus expectations at 108%/98%. We adjust FY18/19E earnings by -3%/+6%, having adjusted our volume, USD/MYR and margin assumptions. We also roll forward valuation to CY19, on an unchanged 18x PER peg (in-line with target multiples for tech stocks within our coverage) to derive a higher TP of MYR6.30 (+14%). We upgrade GTB to HOLD.  </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Goodbaby International</column>
+<column>9.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>GB’s recent conference call suggests that its business operations are tracking its last update. However, as it has consolidated a newly-acquired affiliate from late Oct 2017 and issued new shares for its acquisition, we incorporate the impact in our forecasts, while we keep our forecast on existing business intact.  We raise EPS by 8-33% and roll over our valuation to FY18E.  Our new TP is HKD9.0, still at 20x P/E. Better-than-expected merger synergies may provide earnings upside risk. BUY.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Health &#38; Happiness Int'l</column>
+<column>66.300000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Reiterate BUY. Street earnings have caught up with our bullish stance since late 2Q17 and the market’s pessimism has been reversed. TP raised 16% to HKD66.3 as we see more sales and margin upside. We see both the ANC and BNC segments are on a cyclical and structural uptrend due to favourable demographics and regulations. We believe H&#38;H will achieve its 2020 sales target of USD2b. With 16% net margin, we expect a net profit of CNY2b in 2019 earliest, doubling from 2017F.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Henderson Land Development</column>
+<column>63.800000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Reiterate BUY as the long-awaited catalyst of  “New Development Areas” (NDAs) North East New Territories conversion has happened.  Conversion premium has finally been agreed by the government.  With this catalyst and the possible upcoming non-core asset disposals, we believe Henderson Land’s value story will finally be recognized. We marginally raised TP to HKD63.8 (unchanged 30% NAV disc.) to factor in potential conversion in Wo Shang Wai.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Hengan International</column>
+<column>107.500000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Our early reform-driven re-rating call was borne out by the stock’s 52% return in 2017. The Street started reversing its bearish call in 2H17. Hengan has successfully rejuvenated its brand and organisation in its reform throughout 2014-17. With the bulk of the reform done, and further fine-tuning in 2018, we believe more benefits will be fully reflected in 2018, given growth from new channels and products. We lift our FY18-19F EPS by 7%-9%. New TP is pegged to 25x FY18F P/E (from 22x).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Hock Seng Lee</column>
+<column>2.000000</column>
+<column>Buy</column>
+<column></column>
+<column>4Q17 results were within ours/consensus expectations on the back of recovery in construction earnings within the quarter. We keep our FY18E/FY19E earnings unchanged with FY18E earnings implying a 59% YoY growth. Its outstanding orderbook of MYR2.7b as of end-Dec 2017 would support growth into FY18. HSL is now a BUY with a higher TP of MYR2.00 (rounded) pegged to a higher 15x FY18 PER (5-year mean). Valuations are undemanding with the stock trading at -1SD on a FY18 PER of 12x.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Hong Leong Bank</column>
+<column>18.750000</column>
+<column>Hold</column>
+<column></column>
+<column>HL Bank’s 2QFY18 results were above expectations, on strong contributions from BOC and a lower tax rate. Our earnings forecasts are raised by 5% p.a. and our TP is raised to MYR18.75 from MYR17.70 on rolling forward valuations to CY19 on a higher PBV peg of 1.5x (ROE: 10.9%) vs 1.4x previously (ROE: 10.4%). HOLD maintained and we prefer HLFG (HLFG MK; BUY; TP: MYR20.80) for indirect exposure instead. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Hong Leong Financial Group</column>
+<column>20.800000</column>
+<column>Buy</column>
+<column></column>
+<column>HL Bank’s results continued to surprise positively for the third consecutive quarter, leading to better earnings at HLFG as well.  At their current prices, HLFG’s market cap of MYR21.1b is a 14% discount to its share of HL Bank’s market cap i.e. MYR24.5b, yet again reinforcing our preference for HLFG (BUY). Our RNAV-TP, meanwhile, is raised to MYR20.80 from MYR19.90 to reflect the upgrade in HL Bank’s valuations.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Hualan Biological Engin.</column>
+<column>31.000000</column>
+<column>Hold</column>
+<column></column>
+<column>Reiterate HOLD and DCF-based TP of CNY31 after reviewing the 3Q17 results, which met our revenue estimate but missed earnings. Inventory increased only 3% in 3Q, better than what we estimated. ASPs also appear stable. Selling expense increased quickly to CNY102.8m in 3Q, or 15.7% of revenue. This likely contributed to the 18.5% increase in YTD revenue. Management increased net income growth guidance range for 2017 to -5% to +15%, which is slightly better than our estimate, which we stand by.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Huaneng Renewables Corp</column>
+<column>3.299775</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>HNR reported 9M17 revenue of CNY7,587m (PRC GAAP), up 13.5% YoY, and attributable net profit of CNY2,118m (PRC GAAP), up 8.3% YoY, mainly due to a 15.7% YoY rise in 9M17 wind power generation. Excluding the net exchange loss, the PRC GAAP operating profit would be CNY2,333m in 9M17, up 18% YoY, largely in line with our expectation. Reiterate BUY on HNR as it’s a pure play in the wind power sector, has the best asset quality and a good operation track record. Top sector pick.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Hutchison China MediTech</column>
+<column>45.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>We initiate coverage on Hutchison China Meditech (HCM US) with a BUY and SOTP-based TP of USD45, offering 16% upside. HCM is about to become a commercial stage biotech with the anticipated launch of fruquintinib in colorectal cancer in China. Its C-MET inhibitor, savolitinib, has a high probability of success in papillary renal cell carcinoma and a shot at becoming a global blockbuster in lung cancer. Current share price has not priced in all catalysts and we still see much upside in the stock.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>IJM Corporation </column>
+<column>3.400000</column>
+<column>Buy</column>
+<column></column>
+<column>3QFY3/18 core earnings were below our/consensus estimates due to i) weaker-than-expected contributions from construction and industry, and ii) higher tax expense within the quarter. We lower our earnings for FY18E-FY20E by 3%-6% after adjusting for slower works recognition and a higher effective tax rate in FY18E. No change to our SOP-based TP of MYR3.40. We remain positive on IJM for its robust construction orderbook of MYR9.3b and long term investments in MCKIP and Kuantan Port.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Inari Amertron</column>
+<column>4.200000</column>
+<column>Buy</column>
+<column></column>
+<column>Inari’s 1HFY6/17 core net profit of MYR169m (+50% YoY) trounced all expectations. The upside surprise came mainly from a commendable margin expansion, likely due to a favourable sales mix and better operating efficiencies. We raise FY18-20E earnings by 11%-15%, remaining positive on Inari’s sustained double-digit growth prospects. We lift TP to MYR4.20 (+24%), pegging to 22x CY19 EPS (from 20x); this represents a 20% premium to our target PER for tech companies within our coverage. Reiterate BUY</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>IOI Corporation</column>
+<column>5.030000</column>
+<column>Buy</column>
+<column></column>
+<column>1HFY18 headline PATMI rose seven-fold to MYR956m, lifted by stronger downstream performance, coupled with FX translation gains of MYR265m as IOI benefited from a stronger Ringgit. A first interim DPS of 4.5sen was declared (ex-date: 16 Mar). Maintain trading BUY with an unchanged TP of MYR5.03 on 29x FY18 PER (its historical 5-year mean). Completion of Loders disposal is the immediate catalyst as a 12.5sen special DPS potentially awaits investors post completion disposal.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>JD.com, Inc</column>
+<column>30.000000</column>
+<column>Sell</column>
+<column></column>
+<column>Reiterate SELL. We believe JD’s asset heavy model limits profitability especially in light of margin pressure risk due to intensifying competition. While 3Q17 GPM expansion surprised on the upside, we temper excitement as GPM in 4Q17 will likely compress due to: 1) Singles’ Day promotions; 2) intense subsidies from Alibaba; and 3) a sharp increase in capex related to warehouse rentals. We raised FY18-19F operating profit forecast by 1% (FY17E by 14%) but kept unchanged our DCF-based TP of USD30.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Jiangxi Boya Bio-Pharma</column>
+<column>28.000000</column>
+<column>Sell</column>
+<column></column>
+<column>We affirm our SELL and DCF-based TP of CNY28 after reviewing Boya’s weak 3Q17 results. 3Q net income of CNY65.8m missed our estimate and consensus even though quarterly revenue of CNY299.3m beat our lowered estimate but missed consensus. Plasma revenue fell 5.8% YoY, caused by weakness in both volume and ASP. Inventory and accounts receivable both increased in 3Q, causing a third consecutive quarter of negative CFFO, first time in Boya's history. Boya's balance sheet is about to weaken further.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Kimlun Bhd</column>
+<column>2.610000</column>
+<column>Buy</column>
+<column></column>
+<column>FY17 core earnings were above ours/consensus expectations on stronger-than-expected contribution from the construction segment. No change to our earnings forecasts and TP of MYR2.61 pegged to 10x FY18 PER (+0.5 SD) pending an analyst briefing on 13th March. Reiterate BUY on Kimlun on the back of decent growth prospects and potential earnings upside to our forecasts. Valuation remains undemanding at 8.2x FY18 PER.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>KPJ Healthcare</column>
+<column>1.080000</column>
+<column>Hold</column>
+<column></column>
+<column>4Q17 results were above ours/consensus forecasts largely supported by the Malaysian operations which reported stronger-than-expected profits. We raise our FY18E/FY19E earnings by 9%/6% taking into account a lower tax rate and assuming lower cost as its greenfield hospitals reach the end of their gestation period. Consequently, we derive a higher SOP-based TP of MYR1.08 (from MYR1.05). HOLD for now.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Kuala Lumpur Kepong</column>
+<column>26.400000</column>
+<column>Hold</column>
+<column>Yes</column>
+<column>1QFY9/18 earnings are off to a decent start with core net profit meeting 30%/27% of our/consensus full-year earnings forecasts – within estimates. Downstream outperformed whereas upstream and property divisions underperformed. We maintain our earnings forecasts. Given muted FY18 earnings growth outlook, KLK remains a HOLD with an unchanged TP of MYR26.40 on 26x FY18 PER (5-year mean).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Lingkaran Trans Kota</column>
+<column>6.100000</column>
+<column>Hold</column>
+<column></column>
+<column>9MFY18 net profit of MYR176m (+3% YoY) was in-line with our full year forecast. A second interim DPS of 10sen was declared within the quarter, bringing its total DPS to 25sen for FY18 YTD. No change to our earnings forecasts, DPS estimates of 25sen p.a for FY18E-FY20E, and RNAV-TP of MYR6.10.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Malakoff Corporation</column>
+<column>1.153797</column>
+<column>Buy</column>
+<column></column>
+<column>FY17 net profit was below our expectation, owing to slight capacity payment shortfall at TBE in 4Q17. Dividend meanwhile surprised positively, and management’s commitment towards maintaining 100% DPR going forward would see Malakoff become an attractive yield stock.  Reiterate BUY, with a lower TP of MYR1.15 (-8%).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Maxis Bhd</column>
+<column>5.897195</column>
+<column>Hold</column>
+<column></column>
+<column>FY17 results and dividends were within expectations. However, weak prepaid trends along with tepid FY18 guidance have led to us revising earnings downwards. Maintain HOLD with a lower TP of MYR5.90 (-5%). Balance sheet and dividend are no longer pressing concerns for Maxis.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Mega First Corp. Bhd</column>
+<column>4.150000</column>
+<column>Buy</column>
+<column></column>
+<column>FY17 core net profit came in slightly below our expectations on lower-than-expected contribution from its discontinued China operations. However, Don Sahong construction progress remains on track, with cumulative physical progress at 46.5% as of end-Dec 2017. MFCB expects Don Sahong to reach e.80% physical completion by end-2018. We make no changes to our earnings and TP pending an update with management.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>MPHB Capital</column>
+<column>1.340000</column>
+<column>Hold</column>
+<column></column>
+<column>That Generali’s call option over a further 21% stake in MPI Generali (MPI) cannot be exercised is a setback for MPHB. This development means that MPHB will find it harder to monetize its investment in MPI and it creates more uncertainty as to when the group can resume dividend/capital repayments, if any. We maintain our HOLD call but raise our RNAV discount to 50% from 30% previously to reflect this uncertainty. Our SOP-derived TP is therefore cut to MYR1.34 from MYR1.87.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>New World Development</column>
+<column>14.603970</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>1HFY18 underlying profit was ~24% above consensus. Adjusted earnings growth was 15% YoY driven by stronger property sales bookings and higher margins, reaffirming our view that fruitful results are emerging from its China repositioning post the NWCL privatisation. Contracted sales are also on track to meet its FY18 target. We raised FY18/19/20E core earnings by 2/10/10% to reflect higher revenue growth/asset turnover and margin assumptions for property sales in China. BUY with new HKD14.6 TP.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Nissin Foods</column>
+<column>1.000000</column>
+<column>Not-Rated</column>
+<column></column>
+<column>Nissin Foods (“NF”) is the largest instant noodle player in Hong Kong with over 60% market share as well as being a No.2 premium player in China. Listed on HKEX in Dec 2017 and originating from Japan, it is renowned for its innovation and R&#38;D. NF raised USD122m in the IPO, with a listing price of HKD3.54. Post-IPO, NF should have ~HKD1.9b net cash on hand (HKD1.33b net cash as of 1H17, net HKD412m dividend payable, plus IPO proceeds, before CAPEX), comprise over half of its current mkt cap.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>PECCA Group</column>
+<column>1.600000</column>
+<column>Buy</column>
+<column></column>
+<column>Shortfall in 2QFY6/18 results came from a lower-than-expected volume at the OEM division as we had expected a strong inventory build-up in the period prior to the launch of the new Myvi in Nov 2017. We understand that Perodua had underestimated the demand for the 1.5L Advance variant which Pecca supplies to. We cut our FY18/19/20 net profit forecasts by 22%/9%/9% on lower volumes and ASPs. Our TP is lowered to MYR1.60 (-12%) on unchanged 14.5x CY19 PER. Maintain BUY for exposure to Perodua.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Petronas Gas</column>
+<column>19.499172</column>
+<column>Buy</column>
+<column></column>
+<column>PTG’s FY17 results were in line. A results call will be held Tuesday afternoon, but is unlikely to contain material updates pertaining to TPA discussions. We view risk-reward as being attractive, with the stock still offering over 10% upside even under a 50% probability of an adverse TPA outcome (TP is lowered to MYR19.50 from MYR23.00). Reiterate BUY. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Public Bank</column>
+<column>21.000000</column>
+<column>Hold</column>
+<column></column>
+<column>Into 2018, management guides for slightly faster loan growth and NIM expansion. Our earnings forecasts are raised 5% for FY18/19 on higher NIM assumptions but our FY18 ROE estimate of 14% is at the lower end of management’s 14-15% target. While its operational performance is decent, there is little catalyst at this stage, in our view. We maintain our HOLD call with a higher target price of MYR21 (+MYR1) on rolling forward valuations on an unchanged FY18 PBV peg of 2x.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>RCE Capital Bhd</column>
+<column>1.950000</column>
+<column>Buy</column>
+<column></column>
+<column>3QFY3/18 results were above expectations and our FY18-20 earnings forecasts are raised by 3-4%. Rolling forward valuations, we maintain our MYR1.95 TP on a lower PBV peg of 1.1x (1.3x previously) on a lower CY19E ROE of 15.9% (16.6% for CY18E before). BUY maintained – at our TP of MYR1.95, RCE would trade at an undemanding CY19 PER of just 7.5x while FY18E dividend yield of 4.1% provides support.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>RHB Bank</column>
+<column>5.900000</column>
+<column>Hold</column>
+<column></column>
+<column>What is positive is that RHB continues to gain market share in the SME segment and CASA accumulation has been strong. Against management’s FY18 ROE target of 9-10%, we estimate 9.2%/9.3%% for FY18/19. We roll forward valuations to CY19 but continue to attach a P/BV of 0.9x. Our TP is raised to MYR5.90 from MYR5.40. We maintain our HOLD call on RHB.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Sands China</column>
+<column>40.200000</column>
+<column>Buy</column>
+<column></column>
+<column>3Q17 results were ahead of our expectations on higher-than-expected VIP win rate. Lifting our FY17 VIP win rate by 25bps to 3.10%, we raise our FY17 EBITDA estimate by 2%. For 4Q17, we expect higher earnings QoQ due to the Golden Week holidays. SCL will also invest USD1.2b to rejuvenate its casinos and build more suites. TP little changed at HKD40.20 (HKD40.25 previously) on housekeeping changes. Coupled with dividend yields of 5% p.a., investors can expect total returns of 12%.  </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Sarawak Oil Palms</column>
+<column>6.000000</column>
+<column>Buy</column>
+<column></column>
+<column>FY17 results beat expectations on lower-than-expected cost. Given the high earnings base of FY17, FY18’s growth could be relatively muted before resuming its uptrend in FY19-20. Still, the market has yet to appreciate its growth achievement and future earnings potential as the stock trades at &#60;10x 2018 PER (vs. industry’s 25x) and EV/planted ha of MYR30,000, barely above replacement cost. SOP is a BUY with a revised TP of MYR6.00 on 14x 2018 PER as we roll forward our valuation base year.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Semiconductor Manufacturing Int'l Corp.</column>
+<column>7.000000</column>
+<column>Sell</column>
+<column>Yes</column>
+<column>3Q17 could have been loss-making without government subsidies. 4Q17 guidance suggests a red figure is inevitable. Rising fixed costs, material costs and R&#38;D expenses for advanced nodes amid unfavourable pricing could limit SMIC’s ability to capitalise on its investments, in our view. The stock has rallied on expectations of a favourable government policy, but we see no fundamental reason to own the shares now. SELL.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Shanghai RAAS Blood Prod.</column>
+<column>9.000000</column>
+<column>Sell</column>
+<column></column>
+<column>Affirm SELL and DCF-based TP of CNY9 after reviewing Shanghai RAAS’s 3Q17 results.  Revenue CNY600m was above our lowered expectation of CNY495m, but cumulative 9M revenue 9.2% below last year, hurt by lower volume of both Ig and albumin.  ASP trends were stable but inventory continue to build up, surpassing CNY1b for the first time. Profit from securities trading was sharply (25%) lower YoY. We stand by our estimates and TP as they are already the lowest on the street.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Sime Darby Bhd</column>
+<column>2.250000</column>
+<column>Sell</column>
+<column></column>
+<column>1HFY6/18 core earnings was ahead of our expectations as the Industrial division surprised on the upside.We lift our FY18/19/20 earnings forecasts by 10%/3%/3%, having adjusted our Industrial margin assumptions upwards. We now value the Industrial division at a higher multiple peg of 15x CY19 to reflect its improving earnings outlook backed by strong order backlog. Our TP is raised to MYR2.25. We believe that SDB’s near-term earnings potential has been fully priced in; D/G to SELL. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Sime Darby Plantation</column>
+<column>5.630000</column>
+<column>Hold</column>
+<column>Yes</column>
+<column>2QFY18 core net profit caught up as 1HFY18 core net profit now meets 53% of our/consensus full-year estimates - within expectations. Upstream earnings outshined downstream this quarter. We maintain our core earnings forecasts. SDPL remains a HOLD with an unchanged TP of MYR5.63 pegged at 30x FY18 PER, implying a P/RNAV of 0.6x. A first interim DPS of 3.5sen (ex-date: 18 Apr) was declared. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Sino Land Company</column>
+<column>17.300000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Sino Land’s 1HFY18 underlying profit was largely in line with market expectations. Importantly, the special div. of HK45 cents was a positive surprise to us. This is on top of the interim DPS of HK13 cents, taking total DPS for 1HFY18E to HK58 cents. We view positively the greater effort by Sino Land to improve capital management. Sino Land also acquired stakes in five sites in 1H. Maintain BUY with TP increased to HKD17.3 (30% NAV discount) after factoring in the recent land acquisitions.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Sun Hung Kai Properties</column>
+<column>157.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>SHKP’s 1H18 underlying net profit came in roughly 10% above the high end of market estimates. In Hong Kong, the attributable contracted sales in 1HFY18E reached HKD26.5b, up 16% YoY, and so far in FY18E, it has reached HKD32.2b. We expect SHKP could reach its medium-term annual target of HKD40b. The interim DPS was HKD1.20, up 9% YoY, and we think the DPS increase could help narrow the NAV discount. BUY.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Sunway Construction Group</column>
+<column>2.630000</column>
+<column>Hold</column>
+<column></column>
+<column>SCG has secured an e.MYR730m of new job wins YTD FY18 with this latest building job win. No change to our earnings forecasts having imputed job win potentials. Maintain HOLD with an unchanged TP of MYR2.63 (16x FY18 PER/+1SD).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Ta Ann</column>
+<column>3.700000</column>
+<column>Hold</column>
+<column></column>
+<column>Ta Ann’s core results met our expectation but missed consensus. Uncertainties remain with its timber division which reported two quarters of losses following reduced log export quota (-10-ppts to 20%) since 3Q17. Ta Ann remains a HOLD with a revised TP of MYR3.70 on 13x 2018 PER (5-year historical mean) as we roll forward our valuation base year (previously MYR3.86 on 15x 2017 PER).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Tan Chong Motor</column>
+<column>2.150000</column>
+<column>Buy</column>
+<column></column>
+<column>9M17 core net loss of MYR73m made up 95% of our FY17 estimate, in-line  as we expect losses to narrow significantly in 4Q17, aided by a year-end incentive from Nissan Japan, a repeat of 4Q16. On the brighter side, 3Q17 core net losses have narrowed QoQ while inventory was reduced further to MYR1.3b (-3% QoQ). We remain BUYers of TCM from a valuation angle, currently trading at its trough of 0.4x P/NTA. Our TP is unchanged at MYR2.15, pegged to an unchanged 0.5x 2017 P/NTA (-1SD).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Telekom Malaysia</column>
+<column>6.000081</column>
+<column>Hold</column>
+<column></column>
+<column>While FY17 net profit was in line, the underlying operational performance of selected products underwhelmed slightly. TM’s near-term earnings trajectory remains subdued with Webe possibly remaining EBITDA-negative in the coming years. Maintain HOLD with an unchanged MYR6.00 TP. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Tenaga Nasional</column>
+<column>15.997288</column>
+<column>Hold</column>
+<column></column>
+<column>4MFY12/17 (Sep-Dec 2017) earnings were in-line, with Tenaga over-recovering on generation costs. A DPR of 50% for the financial period is unchanged from FY8/17. Maintain HOLD with an unchanged MYR16.00 TP. In our view, the market will need some time to digest both the new RP2 earnings step-down and the 1H18 subsidy funding.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>TH Plantations</column>
+<column>1.220000</column>
+<column>Hold</column>
+<column></column>
+<column>THP’s 3Q17 headline net profit was impacted by MYR3.5m impairment of receivables, offset by positive from the change in FV of forestry. 3Q17 core net profit however met expectations. We make no change to our FY17 core net profit forecast, but revise down headline forecast for the exceptionals. THP remains a HOLD with an unchanged TP of MYR1.22, on 0.8x trailing P/NTA (-1SD to 3-year mean).</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>TIME dotCom</column>
+<column>8.504520</column>
+<column>Hold</column>
+<column></column>
+<column>FY17 results were ahead of our forecast (but below consensus) due to the presence of IRU sales in 4Q17. Maintain HOLD with a higher MYR8.50 TP (+1%) post our earnings revisions. In our view, TDC’s growth prospects appear largely priced-in for now, with no strong rerating catalysts in the horizon.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Tingyi</column>
+<column>11.400000</column>
+<column>Hold</column>
+<column>Yes</column>
+<column>We raised our FY18/19F NPAT by 9-12% to factor in lower opex but left FY17F NPAT unchanged, in line with guidance. We also raised our sales and GPM assumptions to reflect the 3% ASP increase for instant noodles from mid-Oct’17 and on Tingyi’s increasing presence in specialty channels (eg, restaurants) which will boost sales. We also raised our TP 16% to HKD11.40 after rolling forward valuation to FY18 with unchanged target PER multiple of 25x, the high-end of the range for its peers. </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>TSH Resources </column>
+<column>1.650000</column>
+<column>Hold</column>
+<column></column>
+<column>Following the lower-than-expected FY17 results, we cut our FY18-19E EPS by 15%/16% mainly on higher share of minority profits. Our TP is unchanged at MYR1.65 even as we roll forward our valuation base year to FY18 on unchanged 19x PER peg (about 1SD below 5-year mean). TSH remains a HOLD as its growth potential is reflected by its traded PER of 18x (FY18). A first and final DPS of 2sen was proposed.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Uni-President China</column>
+<column>9.830000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>We spoke to management and we believe FY17 will meet our forecast. We note sales of its old products are stabilising and it sees room to adjust product prices in view of the cost pressure. In addition, UPC indicated it will turn more active in new product launches in 2018. Our FY17F numbers are unchanged, but we raised FY18/19F by 3% each. Our FY18-19F EBITDA are 7-8% above street. Our new TP is based on target FY18F EV/EBITDA of 12x (1 s.d. above hist. avg) from 9x(hist. avg). </column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>V.S. Industry</column>
+<column>3.550000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>1QFY18 core earnings of MYR47m met only 18%/19% of our and consensus FY18 forecasts, dragged by the China ops. Going forward, we expect strong earnings rebound QoQ driven by strong volume loading in China and much larger box-build orders at its Malaysia ops. Nonetheless, we lower FY18-20E earnings by 7% each, to account for lower margins at its China ops and incorporating a revised USD/MYR of 4.10-4.15. We roll forward valuations to CY19 on an unchanged 17.5x PER to derive a new MYR3.55 TP; BUY.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Vinda International</column>
+<column>15.600000</column>
+<column>Hold</column>
+<column></column>
+<column>D/G to HOLD as we believe Vinda’s margin recovery based on ASP increase and cost savings will be short of our earlier expectations. We cut our FY18/19 EPS by 12%/8 % to factor in higher-than-expected input and OPEX costs. Our new TP is based on unchanged target multiple of 23x FY18F P/E, in line with its long-term average, or at par to Hengan (1044 HK, BUY, TP HKD107.5). We prefer Hengan on better risk/reward.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Vipshop Holdings </column>
+<column>20.000000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>Reiterate BUY on this attractive dominant brand discount retailer as we lift our target price 41% to reflect the higher addressable market and the strategic benefits from JD/Tencent partnership. VIPS continues to be our top pick in the China ecommerce space as the company’s rising ARPU (revenue per buyer) is driving better than expected growth, and its strategic relationship will lead to long-term incremental buyers, in our view.  We also raised earnings estimates by 7% to 29% for 2018-2020F.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>ViTrox Corp</column>
+<column>5.000000</column>
+<column>Sell</column>
+<column></column>
+<column>FY17 core earnings were right on target at 100% of our and consensus expectations. Revisions to sales volume and USD/MYR resulted in -7%/+7% revisions in our FY18/19E earnings; we also introduce FY20 forecast. We now peg ViTrox to 19x CY19 PER, guided by an unchanged 20% premium over regional peers’ valuation, deriving a higher TP of MYR5.00. Slower earnings growth ahead, partially impacted by a lower USD/MYR, supports our lower PER peg. With a 21% downside potential, the stock remains a SELL.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Want Want China</column>
+<column>7.200000</column>
+<column>Buy</column>
+<column>Yes</column>
+<column>We expect 3Q due in 2H-Nov to reaffirm our view that we’ll continue to see green shoots for WWC’s “Hot Kid” milk. We lift our above-Street forecast by 1-6%, to factor in higher sales and margins, and roll forward our valuation from blended FY17-18F to FY18F. We lift target multiple from 18x to 20x, equivalent to 1 s.d. below 7-year average. Peers are trading at average of 22x. We believe 10% discount is fair given WWC’s relatively weaker innovation and high sales concentration risk. Stay BUY.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>Yashili International Holdings</column>
+<column>1.520000</column>
+<column>Hold</column>
+<column></column>
+<column>Maintain HOLD w/TP lifted 10% as we roll forward valuation basis to FY18F at 2.3x EV/sales (unchanged), in line with dairy peers’ average.  Profitability should stay low near/medium term given it is a late comer to new channels. Accordingly, we are hesitant to turn positive until we see indications that its channel shift is delivering better results. We do expect losses in 2017 to narrow YoY with a return to profit in 2018F.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column>YTL Power</column>
+<column>1.246303</column>
+<column>Hold</column>
+<column></column>
+<column>1HFY18 results were below expectation, with the miss stemming from higher-than-expected interest expense and taxes. Maintain HOLD with a lower MYR1.25 TP (-7%), as we incorporate the effects of a recent share dividend and our earnings cuts. With dividend yield no longer compelling, the investment thesis will largely revolve around the accretive new projects, which remain some time from commissioning.</column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row>
+<row>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column>
+<column></column></row></table></xmloutfile>

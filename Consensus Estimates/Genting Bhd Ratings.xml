@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20170904</DataItem>
+		<DataItem name="# Ratings">17</DataItem>
+		<DataItem name="% Buy + Overweight Rating">82</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">6</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20171004</DataItem>
+		<DataItem name="# Ratings">17</DataItem>
+		<DataItem name="% Buy + Overweight Rating">82</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">6</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20171103</DataItem>
+		<DataItem name="# Ratings">16</DataItem>
+		<DataItem name="% Buy + Overweight Rating">69</DataItem>
+		<DataItem name="% Hold Rating">25</DataItem>
+		<DataItem name="% Sell + Underweight Rating">6</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20171204</DataItem>
+		<DataItem name="# Ratings">16</DataItem>
+		<DataItem name="% Buy + Overweight Rating">81</DataItem>
+		<DataItem name="% Hold Rating">19</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180104</DataItem>
+		<DataItem name="# Ratings">16</DataItem>
+		<DataItem name="% Buy + Overweight Rating">81</DataItem>
+		<DataItem name="% Hold Rating">19</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180202</DataItem>
+		<DataItem name="# Ratings">16</DataItem>
+		<DataItem name="% Buy + Overweight Rating">88</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180302</DataItem>
+		<DataItem name="# Ratings">15</DataItem>
+		<DataItem name="% Buy + Overweight Rating">87</DataItem>
+		<DataItem name="% Hold Rating">13</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180404</DataItem>
+		<DataItem name="# Ratings">16</DataItem>
+		<DataItem name="% Buy + Overweight Rating">88</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180504</DataItem>
+		<DataItem name="# Ratings">16</DataItem>
+		<DataItem name="% Buy + Overweight Rating">88</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180604</DataItem>
+		<DataItem name="# Ratings">17</DataItem>
+		<DataItem name="% Buy + Overweight Rating">88</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180704</DataItem>
+		<DataItem name="# Ratings">16</DataItem>
+		<DataItem name="% Buy + Overweight Rating">88</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180803</DataItem>
+		<DataItem name="# Ratings">17</DataItem>
+		<DataItem name="% Buy + Overweight Rating">88</DataItem>
+		<DataItem name="% Hold Rating">12</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+	<DataRow>
+		<DataItem name="Identifier">3182-MY</DataItem>
+		<DataItem name="Date (Month End)">20180904</DataItem>
+		<DataItem name="# Ratings">15</DataItem>
+		<DataItem name="% Buy + Overweight Rating">87</DataItem>
+		<DataItem name="% Hold Rating">13</DataItem>
+		<DataItem name="% Sell + Underweight Rating">0</DataItem>
+	</DataRow>
+</Grid>

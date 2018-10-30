@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Grid>
+	<DataRow>
+		<DataItem name="Identifier">6-HK</DataItem>
+		<DataItem name="Date (Last Close)">20180904</DataItem>
+		<DataItem name="# Ratings">10</DataItem>
+		<DataItem name="% Buy + Overweight Rating">50</DataItem>
+		<DataItem name="% Hold Rating">40</DataItem>
+		<DataItem name="% Sell + Underweight Rating">10</DataItem>
+		<DataItem name="Target Price">61.27</DataItem>
+		<DataItem name="Price (High Last Close)">55.25</DataItem>
+		<DataItem name="Price (Low Last Close)">54.8</DataItem>
+		<DataItem name="Price (Last Close)">55.15</DataItem>
+		<DataItem name="ADTV (Millions)">100.45866</DataItem>
+		<DataItem name="52 Week Price High">73.95</DataItem>
+		<DataItem name="52 Week Price Low">54</DataItem>
+		<DataItem name="Currency">HKD</DataItem>
+	</DataRow>
+</Grid>
